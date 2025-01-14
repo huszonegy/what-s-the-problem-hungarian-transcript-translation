@@ -1,0 +1,43 @@
+A dollárok helyettesíthetők, ami azt jelenti, hogy minden dollár ugyanolyan, mint a többi... amíg nem. Néhány ország már bevezette a CBDC-ket (központi banki digitális pénz), amely gyakorlatilag programozható pénz. Egy adott dollárnak lehet lejárati ideje – el kell költeni egy bizonyos időszak alatt, különben eltűnik. Vagy egy dollárnak csak bizonyos felhasználási esetei lehetnek – ezt a dollárt X vagy Y célra kell elköltened, vagy nem költheted el ABC-re.  
+
+A dollár világszerte széles körben elfogadott, de nem mindenhol lehet vele fizetni, és jellemzően a legtöbb nemzeti valuta csak saját országában elfogadott.  
+
+Az Egyesült Államoknak komoly Fiatello-problémája van.  
+Ez a 2024-es költségvetés – nem a tényleges adatok, amelyek természetesen rosszabbak voltak – majdnem 2 billió dolláros hiánnyal, miközben a kiadások valamivel meghaladják a 6 billió dollárt. Ez egy éves veszteség. Konkrétan, hogy ezt kontextusba helyezzük, az Egyesült Államokban mindenkinek meg kellene kétszereznie az egyéni jövedelemadóját, hogy ezt kiegyenlítsék, és a kiadási oldalon lehet néhány javítást eszközölni, de vannak kulcsfontosságú dolgok, amelyeket egyszerűen nem lehet eltávolítani, például az adósságkamatokat.  
+
+És a következmények? Nos, ez egy diagram az amerikai rendszerben lévő pénzmennyiségről dollárban, valamint az amerikai kormány által kibocsátott adósság mennyiségéről az idő múlásával. Itt bejelöltem 1971-et, mert ekkor lépett ki az Egyesült Államok egyoldalúan az aranyalapról. 1971 előtt visszavihetted a dollárokat, és aranyat kaphattál értük cserébe. Nixon leválasztotta az Egyesült Államokat az aranyalapról, és azóta a világ minden valutája követte ezt, lehetővé téve az Egyesült Államok számára, hogy korlátlan mennyiségű pénzt nyomtasson saját szükségleteinek kielégítésére.  
+
+A bal oldali tengelyen a piros diagram azt mutatja, hogy a pénzmennyiség most 22 billió dollár, a jobb oldalon pedig az amerikai államadósság, amely még egy hónappal később is elavult – most már 36 billió dollár!  
+
+Ez nem tartalmazza a nem finanszírozott kötelezettségeket – azt az összeget, amelyet az amerikai kormány a jövőben köteles kifizetni a társadalombiztosítás, Medicare, Medicaid stb. révén, de a csekket még nem kellett megírni. Ennek összege számítástól függően 50 és 200 billió dollár között van, a 36 billió dolláros adósságon felül!  
+
+Az egyetlen mód ennek megoldására a további pénznyomtatás. A pénz nyomtatása rendszerszerűen rombolja a dollár vásárlóerejét.  
+
+Most azt gondolhatod, hogy valami kifogásom van a dollár ellen. Egyáltalán nincs! A dollár a *legjobb*, ami jelenleg létezik. Szeretném használni a dollárt, ahogyan a világ legtöbb embere is, de sajnos a legtöbb ember nem ilyen szerencsés.  
+
+Ez az összes többi valuta teljesítménye a dollárral szemben az elmúlt 10 évben. Néhány szinte teljesen eltűnt, néhány pedig ténylegesen meg is szűnt létezni. Azok az emberek, akik ezekben a valutákban takarították meg gazdasági energiájukat, látták, hogy azok eltűnnek.  
+
+A szomorú valóság az, ahogyan a nagyszerű Lyn Alden többször is elmondta:  
+„Semmi nem állítja meg ezt a vonatot.” A kormányok számára nincs kiút. Az egyetlen megoldás, hogy folyamatosan megnyomják a Nagy Piros Gombot.  
+
+És így a következtetés egy idézet Hayek-től, az osztrák közgazdasági iskola egyik közgazdászától:  
+„A pénz kormányzati kezelésének története, néhány rövid boldog időszak kivételével, állandó csalás és megtévesztés története.” És ezt 1988-ban mondta.  
+
+Most mindez eléggé lehangoló lenne, ha nem lenne megoldás, de szerencsére van. Az egyetlen megoldás itt a *pénz és az állam szétválasztása*. A kormány nem férhet hozzá a Nagy Piros Gombhoz.  
+
+És ismét Hayek, ezúttal 1984-ből:  
+„Nem hiszem, hogy valaha is lesz jó pénzünk, amíg ki nem vesszük a kormány kezéből. Nem tudjuk erőszakkal kivenni a kezükből. Csak egy ügyes, kerülő úton vezethetünk be valamit, amit egyszerűen nem tudnak megállítani.” Briliáns idézet.  
+
+Remélem, most, hogy ezek az összefüggések a Nagy Piros Gomb, a pénznyomtató és a mindennapi életünkben tapasztalt problémák között világosabbak lettek, egyértelművé válik, hogy ha megjavítjuk a pénzt, megjavítjuk a világot.  
+
+A jó hír pedig, és ez a legjobb hír: a Satoshik léteznek, és még Fiatello is megtért.  
+
+A megoldás a Bitcoin.  
+
+Egy Bitcoin 100 millió Satoshi, ugyanúgy, ahogy egy dollár 100 cent.  
+
+Most azt gondolhatod, hogy már tudsz a Bitcoinról, valami alapján, amit barátaidtól hallottál, vagy amit a médiában olvastál. Arra bátorítanálak, hogy kezdd újra.  
+
+Amikor az információinkat a médiából szerezzük, vagy olyan emberektől, akik szintén a médiából szerezték azokat, és ez a média kapcsolatban áll azokkal, akik birtokolják és hasznot húznak a pénznyomtatóból, akkor ezek az információk általában nem a legpontosabbak.  
+
+Tehát ne bízz, ellenőrizz.
