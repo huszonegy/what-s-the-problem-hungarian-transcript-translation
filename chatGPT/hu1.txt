@@ -1,0 +1,425 @@
+id		timestamp		hu
+1	;	00:00:20,982 --> 00:00:21,440	;	[Zene]
+2	;	00:00:21,440 --> 00:00:28,880	;	Hé, Joe. Hé. "Miről van itt szó? Nos, van egy problémánk, és ez egy nagyon nagy probléma,
+3	;	00:00:28,880 --> 00:00:34,800	;	amiről sajnos a legtöbb ember nincs tudatában. Nem számítanak a személyes nézeteid,
+4	;	00:00:34,800 --> 00:00:41,320	;	a politikai álláspontod, a vallásod vagy az, hogy hol élsz, mert ha egyszer meglátod a problémát,
+5	;	00:00:41,320 --> 00:00:47,000	;	többé nem tudod nem látni. Olyan, mint egy egyirányú ajtó.  Szerencsére viszont megvan a megoldás is,
+6	;	00:00:47,000 --> 00:00:55,600	;	és éppen ez a megoldás az, amit szenvedélyesen meg akarok osztani, és ami miatt rendkívül optimista vagyok a jövőt illetően. 
+7	;	00:00:55,600 --> 00:01:03,280	;	A kihívás azonban az, hogy senki sem tud igazán értékelni egy megoldást, amíg nem érti meg, mi
+8	;	00:01:03,280 --> 00:01:10,840	;	a probléma. Ezért készítettem ezt a prezentációt néhány barátomnak. Nem feltételez
+9	;	00:01:10,840 --> 00:01:17,520	;	semmilyen előzetes tudást, csupán azt, hogy valaki emberi lény, némi élettapasztalattal. Ők biztattak arra,
+10	;	00:01:17,520 --> 00:01:29,960	;	hogy készítsem el ezt a prezentációt videó formájában, hogy megoszthassam mindenkivel. Remélem, tetszeni fog.
+11	;	00:01:29,960 --> 00:01:38,760	;	Üdvözöllek a 'Mi a probléma?' előadásban.  Szóval, mi a probléma? Sajnos túl sok. Valószínűleg kétszer
+12	;	00:01:38,760 --> 00:01:47,400	;	ennyi dolgot is felírhattam volna erre a diára. Úgy érzem, mindannyian érezzük azt a belső nyugtalanságot,
+13	;	00:01:47,400 --> 00:01:52,080	;	azt, hogy az életünkben és a világban a dolgok nem a megfelelő irányba haladnak.
+14	;	00:01:52,080 --> 00:02:00,080	;	A dolgok nehezebbé válnak, nem könnyebbé, és azt hiszem, legtöbben felismernénk ezeknek az itt felsorolt
+15	;	00:02:00,080 --> 00:02:04,320	;	dolgoknak néhány elemét, amelyek közvetlenül vagy közvetve érintik az életünket.
+16	;	00:02:04,320 --> 00:02:12,040	;	Amit ma itt meg szeretnék mutatni nektek, az az, hogy bár ezek a dolgok látszólag
+17	;	00:02:12,040 --> 00:02:21,240	;	függetlenek egymástól, valójában nem azok. Az összes probléma elsődleges oka a pénzünk minősége.
+18	;	00:02:21,240 --> 00:02:26,320	;	Most egy történeten keresztül fogjuk ezt megérteni. Képzeljük el, hogy van egy távoli világ, ahol
+19	;	00:02:26,320 --> 00:02:32,920	;	több száz okos ember egy hajón utazik, de a hajó zátonyra fut egy lakatlan
+20	;	00:02:32,920 --> 00:02:37,800	;	szigeten. Ez a sziget olyan messze van mindentől, hogy gyakorlatilag el vannak vágva a külvilágtól,
+21	;	00:02:37,800 --> 00:02:42,360	;	viszont a sziget tele van erőforrásokkal – mindennel rendelkezik, amire szükségük lehet
+22	;	00:02:42,360 --> 00:02:48,520	;	a társadalom újraépítéséhez. Mivel ezek az emberek egy fejlett civilizációból érkeztek, pontosan tudják,
+23	;	00:02:48,520 --> 00:02:54,480	;	hova szeretnének eljutni, de most semmijük sincs, mindent elölről kell kezdeniük.
+24	;	00:02:54,480 --> 00:02:58,680	;	Az is egyértelmű, hogy szükségük lesz egy módra, hogy egymással kereskedhessenek, amikor elkezdik az
+25	;	00:02:58,680 --> 00:03:04,160	;	újjáépítést, ezért prioritásként kezelik annak eldöntését, hogy mit használjanak új pénzként. És most
+26	;	00:03:04,160 --> 00:03:09,080	;	függesszük fel kissé a hitetlenségünket, és képzeljük el, hogy bár semmijük sincs, képesek
+27	;	00:03:09,080 --> 00:03:14,160	;	bármilyen monetáris rendszert létrehozni, bármilyen tulajdonságokkal. Az első kérdés tehát, amit meg kell
+28	;	00:03:14,160 --> 00:03:21,200	;	válaszolniuk: mi tesz egy pénzt jóvá? Hét dolog van. Mivel ezek az emberek bármit létrehozhatnak,
+29	;	00:03:21,200 --> 00:03:25,760	;	nemcsak jó pénzt hoznak létre, hanem tökéletes pénzt.
+30	;	00:03:25,760 --> 00:03:32,360	;	A tökéletes pénz ritka, ami azt jelenti, hogy kínálata örökre rögzített, és mindenki számára azonnal
+31	;	00:03:32,360 --> 00:03:36,960	;	és költségmentesen ellenőrizhető. Ha mindenki bármikor,
+32	;	00:03:36,960 --> 00:03:44,160	;	bármilyen költség nélkül ellenőrizheti, akkor maga is meggyőződhet arról, hogy senki nem hoz létre többet belőle.
+33	;	00:03:44,160 --> 00:03:51,360	;	Hordozhatónak kell lennie, hogy könnyedén mozgatható és tárolható legyen elhanyagolható költségek mellett.
+34	;	00:03:51,360 --> 00:03:56,400	;	Oszthatónak kell lennie, és a tökéletes pénz végtelenül osztható.
+35	;	00:03:56,400 --> 00:03:59,800	;	Tartósnak kell lennie – nem rothadhat meg vagy romolhat el.
+36	;	00:03:59,800 --> 00:04:04,760	;	Nem romolhat el, tehát a tökéletes pénz örökké létezik.
+37	;	00:04:04,760 --> 00:04:10,800	;	Helyettesíthetőnek kell lennie, vagyis minden darab örökre ugyanaz, mint bármelyik másik darab.
+38	;	00:04:10,800 --> 00:04:18,200	;	Elfogadhatónak kell lennie, hogy bárki bárhol tudjon küldeni és fogadni.
+39	;	00:04:18,200 --> 00:04:21,160	;	És az igazán fontos dolog, hogy ellenállónak kell lennie a cenzúrával
+40	;	00:04:21,160 --> 00:04:26,680	;	szemben – te magad birtokolod. Senki nem veheti el tőled az
+41	;	00:04:26,680 --> 00:04:32,560	;	engedélyed nélkül, és senki nem akadályozhat meg abban, hogy küldj vagy fogadj.
+42	;	00:04:32,560 --> 00:04:39,640	;	Ez nagyszerű, eldöntik, hogy a tökéletes pénzt fogják használni. De aztán vita alakul ki. Két vezető
+43	;	00:04:39,640 --> 00:04:46,760	;	emelkedik ki a lakosságból. Az első, Satoshi, azt mondja: "Nos, mivel ezek a
+44	;	00:04:46,760 --> 00:04:52,240	;	tökéletes pénz jellemzői, ezek igazak ma, igazak holnap és igazak örökké,
+45	;	00:04:52,240 --> 00:04:57,040	;	ezért rögzítenünk kell őket, és soha nem szabad változtatni rajtuk."  Míg Fiatello azt mondja:
+46	;	00:04:57,040 --> 00:05:02,800	;	"Értem. Értem a tökéletes pénz jellemzőit, és teljesen egyetértek *de* mi van akkor, ha
+47	;	00:05:02,800 --> 00:05:06,880	;	vészhelyzet van? Mi van, ha valamit meg kell változtatnunk? Mi van, ha azok, akiket a pénzünk
+48	;	00:05:06,880 --> 00:05:11,760	;	kezelésére kijelölünk, úgy érzik, hogy nem működik, és módosítani kell? Szerintem legyen
+49	;	00:05:11,760 --> 00:05:18,400	;	tökéletes pénzünk, de legyen egy nagy piros gomb is, amelyet megnyomhatunk, és
+50	;	00:05:18,400 --> 00:05:26,160	;	ha szükséges, bármelyik jellemzőt megváltoztathatjuk. Természetesen soha senki nem nyomná meg, de biztos, ami biztos."
+51	;	00:05:26,160 --> 00:05:30,240	;	Ez kibékíthetetlen ellentétet szül, ezért radikális megoldásként
+52	;	00:05:30,240 --> 00:05:33,000	;	egy hatalmas falat építenek a sziget közepén. A fal egyik
+53	;	00:05:33,000 --> 00:05:39,240	;	oldalán létrehozzák a Satoshik nevű valutát, ami mindig tökéletes pénz,
+54	;	00:05:39,240 --> 00:05:45,840	;	a másik oldalon pedig a Fiatellókat, ami tökéletes pénz, de azzal a lehetőséggel, hogy változtatni lehessen rajta.
+55	;	00:05:45,840 --> 00:05:50,240	;	Ez a fal olyan nagy, hogy elvágja a kommunikációt és a kereskedelmet a sziget két
+56	;	00:05:50,240 --> 00:05:54,400	;	oldala között, így gyakorlatilag elszigeteltek egymástól.
+57	;	00:05:54,400 --> 00:05:59,720	;	Kezdetben mindkét szigetoldalon senkinek sincs semmije, így mindenki nulláról
+58	;	00:05:59,720 --> 00:06:06,680	;	indul. Eleinte az emberek önellátók – mindenki maga halászik,
+59	;	00:06:06,680 --> 00:06:11,880	;	vág fát tüzelőnek és házak építéséhez, valamint saját
+60	;	00:06:11,880 --> 00:06:17,160	;	menedéket épít. Bár tökéletes pénzük van, a kereskedelem itt nagyon korlátozott,
+61	;	00:06:17,160 --> 00:06:23,280	;	mert az emberek keményen dolgoznak, hogy kielégítsék mindennapi szükségleteiket ezekkel a javakkal kapcsolatban.
+62	;	00:06:23,280 --> 00:06:28,120	;	De az emberek különbözőek. Egyesek jobbak bizonyos dolgokban, mint mások, és hamar
+63	;	00:06:28,120 --> 00:06:33,520	;	rájönnek, hogy ha azzal foglalkoznak, amiben jók, és csökkentik azzal töltött időt,
+64	;	00:06:33,520 --> 00:06:39,840	;	amiben gyengék, akkor többet tudnak hozzájárulni a társadalomhoz. Ugyanannyi idő alatt több
+65	;	00:06:39,840 --> 00:06:45,200	;	árut tudnak előállítani a társadalom számára, mint az átlagember.  A
+66	;	00:06:45,200 --> 00:06:51,080	;	favágó például minden idejét favágással tölti. Abbahagyja a halászatot, nem épít többé menedéket,
+67	;	00:06:51,080 --> 00:06:55,480	;	és mivel az idejét favágással tölti, több fát tud biztosítani mindenki
+68	;	00:06:55,480 --> 00:07:01,400	;	számára, mint ha hárman dolgoznának ezen harmadidőben.
+69	;	00:07:01,400 --> 00:07:06,560	;	Ez nemcsak növeli a fa mennyiségét, ami csökkenti annak árát a
+70	;	00:07:06,560 --> 00:07:11,080	;	szigeten élők számára, hanem a minőség is javul – hiszen ő jobban ért hozzá.
+71	;	00:07:11,080 --> 00:07:17,760	;	Magasabb minőségű faanyagot állít elő, így az árak csökkennek, és a minőség javul. Ráadásul
+72	;	00:07:17,760 --> 00:07:21,600	;	nem ő az egyetlen favágó. Többen is vannak, akik
+73	;	00:07:21,600 --> 00:07:27,480	;	versenyeznek egymással, hogy fát szállítsanak mindenkinek. Ez az árakban és a minőségben is
+74	;	00:07:27,480 --> 00:07:33,200	;	versenyt eredményez. És most az történik, hogy mivel a favágónak más javakra is szüksége van
+75	;	00:07:33,200 --> 00:07:37,280	;	a túléléshez, el kell adnia a fát, hogy halat vegyen, és el kell adnia a fát, hogy kifizesse az
+76	;	00:07:37,280 --> 00:07:43,800	;	otthonépítő szolgáltatásait. Most már mindenki aktívan kereskedik ezzel a tökéletes pénzzel.
+77	;	00:07:43,800 --> 00:07:47,920	;	Mivel a folyamatok folyamatosan javulnak, a favágó kevesebb idő alatt képes kielégíteni a
+78	;	00:07:47,920 --> 00:07:54,000	;	fa iránti igényt a lakosság körében. Ezt az időt arra fordíthatja, hogy átgondolja
+79	;	00:07:54,000 --> 00:07:58,240	;	saját folyamatait és innovációit – talán még hatékonyabbá teheti a favágást.
+80	;	00:07:58,240 --> 00:08:03,960	;	Ha ez sikerül, az tovább csökkenti az árakat és javítja a minőséget.
+81	;	00:08:03,960 --> 00:08:09,040	;	Ha eléri a favágás innovációinak végét, a felhalmozott pénzét
+82	;	00:08:09,040 --> 00:08:13,840	;	és tőkéjét más emberekbe fektetheti. Talán kölcsönt ad a halásznak,
+83	;	00:08:13,840 --> 00:08:20,280	;	aki így hajót építhet, hogy növelje a fogási kapacitását mindenki számára.
+84	;	00:08:20,280 --> 00:08:24,800	;	Így, ami egy szabad piacon történik tökéletes pénzzel:
+85	;	00:08:24,800 --> 00:08:29,440	;	*az árak örökké csökkennek, és a minőség örökké javul.*
+86	;	00:08:30,160 --> 00:08:35,200	;	Mindkét szigetoldalon az emberek azt látják, hogy a pénzük vásárlóereje
+87	;	00:08:35,200 --> 00:08:42,960	;	növekedni kezd. A javak holnap olcsóbbak, mint ma, így az árak folyamatosan csökkennek. A
+88	;	00:08:42,960 --> 00:08:49,880	;	vásárlóerő mindkét valutában évi körülbelül 3%-kal nő, ami javítja az
+89	;	00:08:49,880 --> 00:08:57,160	;	életminőséget. Az élet egyre olcsóbbá válik mindenki számára, nemcsak a társadalom
+90	;	00:08:57,160 --> 00:09:06,760	;	legtermelékenyebb tagjai számára. De a kulcs az, hogy *maga a pénz válik egyre értékesebbé az idő múlásával.*
+91	;	00:09:06,760 --> 00:09:12,640	;	Ez egészen addig így megy, amíg meg nem jelennek ezek a fickók. Mivel a társadalom és a lakosság
+92	;	00:09:12,640 --> 00:09:18,000	;	növekszik, mindkét szigetoldal kormányt választ. Itt már
+93	;	00:09:18,000 --> 00:09:22,080	;	nem számít, hogy a kormány baloldali vagy jobboldali, nagy vagy kicsi, felfelé
+94	;	00:09:22,080 --> 00:09:27,920	;	vagy lefelé néző – mind ugyanazt teszik ezen a téren.
+95	;	00:09:27,920 --> 00:09:34,080	;	Akármilyen jól működik a kormány, előbb-utóbb elkerülhetetlenül hiánnyal fog szembenézni, ami azt jelenti,
+96	;	00:09:34,080 --> 00:09:39,960	;	hogy többet költ, mint amennyit kap. Ez lehet rossz gazdálkodás eredménye,
+97	;	00:09:39,960 --> 00:09:44,800	;	de lehet külső körülmények, például egy természeti katasztrófa miatt is.
+98	;	00:09:44,800 --> 00:09:51,320	;	Az okok nem fontosak, de idővel ez elkerülhetetlenül bekövetkezik.
+99	;	00:09:51,320 --> 00:09:56,040	;	Ezen a ponton eltérés kezd kialakulni a sziget két oldala között. Satoshinak két
+100	;	00:09:56,040 --> 00:10:03,240	;	választása van: vagy megemeli az adókat, vagy csökkenti a kiadásokat,
+101	;	00:10:03,240 --> 00:10:06,160	;	esetleg mindkettőt kombinálja. Fiatellónak ugyanezek
+102	;	00:10:06,160 --> 00:10:11,360	;	a lehetőségei vannak... de van egy Nagy Piros Gombja is.
+103	;	00:10:11,360 --> 00:10:16,040	;	A lényeg itt az, hogy mindketten újraválasztásra készülnek, és Fiatello tudja,
+104	;	00:10:16,040 --> 00:10:22,680	;	hogy ha emeli az adókat vagy csökkenti a kiadásokat, az szavazatokba fog kerülni. Ezért úgy dönt,
+105	;	00:10:22,680 --> 00:10:29,480	;	hogy *csak most az egyszer* megnyomja a Nagy Piros Gombot, és egy kis extra pénzt nyomtat a kormány számára.
+106	;	00:10:29,480 --> 00:10:34,640	;	És mi ennek a következménye? Nos, Satoshi számára nem túl kedvező. Nem rejtheti el
+107	;	00:10:34,640 --> 00:10:39,480	;	ezeket a változásokat a lakosság elől, mert az emberek több adót fizetnek, vagy kevesebbet kapnak vissza
+108	;	00:10:39,480 --> 00:10:47,360	;	a kormány kiadásaiból. Emiatt elveszíti a választásokat. A kormány mérete természetesen csökken,
+109	;	00:10:47,360 --> 00:10:54,000	;	így az egész gazdaság hatékonysága növekszik. Nemcsak ez,
+110	;	00:10:54,000 --> 00:10:59,240	;	hanem a társadalmi egyensúly is javul a gazdaságban, mert az emberek ráébrednek, hogy nincs "ingyen pénz".
+111	;	00:11:00,520 --> 00:11:04,080	;	Az adóknak és a kiadásoknak egyensúlyban kell lenniük. A legfontosabb, hogy
+112	;	00:11:04,080 --> 00:11:10,440	;	az árak továbbra is csökkennek, és a minőség tovább javul.
+113	;	00:11:10,440 --> 00:11:13,960	;	Most Fiatello számára – nagyszerű hír: újraválasztják,
+114	;	00:11:13,960 --> 00:11:18,280	;	és kezdetben mindennek nincs következménye. Úgy gondolja, hogy ez a legjobb
+115	;	00:11:18,280 --> 00:11:25,760	;	dolog valaha – újraválasztják, és nincs hátrány... de valami megváltozott.
+116	;	00:11:25,760 --> 00:11:29,560	;	Tehát, mi történt? Fiatello megnyomta a Nagy Piros Gombot,
+117	;	00:11:29,560 --> 00:11:33,200	;	amivel pénzt nyomtatott a kormány számára, ezzel pedig leértékelte a valutát.
+118	;	00:11:33,200 --> 00:11:39,240	;	Mit jelent ez? Megnövelte az éjszaka folyamán a gazdaságban lévő pénzmennyiséget,
+119	;	00:11:39,240 --> 00:11:42,120	;	de nem növelte a gazdaságban elérhető javak és szolgáltatások mennyiségét.
+120	;	00:11:42,120 --> 00:11:46,080	;	Így most több Fiatello van, mint tegnap,
+121	;	00:11:46,080 --> 00:11:51,600	;	minden egyes jószágra és szolgáltatásra vetítve.
+122	;	00:11:51,600 --> 00:11:57,520	;	Ennek három fő hatása van: az első az árjelzések torzítása, a második
+123	;	00:11:57,520 --> 00:12:02,840	;	a vállalkozások inputköltségeinek növekedése, a harmadik pedig az eszközök inflációja.
+124	;	00:12:02,840 --> 00:12:08,320	;	Az első, az árjelzések torzítása. Nos, Fiatello Nagy Piros Gombjának megnyomása
+125	;	00:12:08,320 --> 00:12:13,760	;	előtt a gazdaságban minden árváltozás kizárólag a kereslet és kínálat függvénye volt,
+126	;	00:12:13,760 --> 00:12:19,280	;	mert ez egy szabad piac volt tökéletes pénzzel. De most,
+127	;	00:12:19,280 --> 00:12:25,040	;	hogy a pénz belépett a gazdaságba, ez nem mindenkinek egyenlően vagy akár arányosan
+128	;	00:12:25,040 --> 00:12:29,160	;	oszlott el. A pénz a kormányon keresztül lépett be a gazdaságba,
+129	;	00:12:29,800 --> 00:12:35,760	;	a kormányhoz közvetlenül vagy közvetve kapcsolódó vállalatok
+130	;	00:12:35,760 --> 00:12:40,800	;	és emberek számláira. Ezért Fiatello azt látja, hogy az árak bizonyos gazdasági szektorokban
+131	;	00:12:40,800 --> 00:12:47,080	;	emelkedni kezdenek. Ez azt az üzenetet közvetíti a gazdaság többi résztvevője számára,
+132	;	00:12:47,080 --> 00:12:54,160	;	hogy ezekben a szektorokban kínálati és keresleti egyensúlyhiány van. Ez a vállalkozók
+133	;	00:12:54,160 --> 00:12:59,120	;	által a piacon végrehajtott tőkeallokáció torzulásához vezet, amit a pénz nyomtatása okozott. De nem
+134	;	00:12:59,720 --> 00:13:03,440	;	csak a tőke, hanem az emberi erőforrások, okos, aktív emberek is közelebb kerülnek a kormányhoz,
+135	;	00:13:03,440 --> 00:13:09,000	;	ahelyett, hogy a gazdaság többi részét szolgálnák.
+136	;	00:13:09,000 --> 00:13:14,800	;	A második hatás a vállalkozások inputköltségeinek növekedése. Fiatello országának
+137	;	00:13:14,800 --> 00:13:20,240	;	minden vállalkozása legalább egy embert és néhány nyersanyagot – például energiát vagy más
+138	;	00:13:20,240 --> 00:13:26,840	;	nyersanyagokat – használ. Mivel ezek költségei emelkednek, ezeknek a vállalkozásoknak
+139	;	00:13:26,840 --> 00:13:31,760	;	meg kell próbálniuk valamit változtatni a termékükön, hogy fenntartsák az üzletmenetükhöz
+140	;	00:13:31,760 --> 00:13:37,040	;	szükséges kis haszonkulcsot. Az első és legnyilvánvalóbb megoldás az,
+141	;	00:13:37,040 --> 00:13:42,800	;	hogy egyszerűen áthárítják az áremelkedést a vásárlókra. A második, hogy az árat és a
+142	;	00:13:42,800 --> 00:13:48,760	;	minőséget változatlanul hagyják, de csökkentik a termék méretét, például 100
+143	;	00:13:48,760 --> 00:13:56,600	;	gramm helyett 90 gramm lesz ugyanazon az áron. A harmadik lehetőség pedig az inputköltségek csökkentése.
+144	;	00:13:56,600 --> 00:14:01,480	;	Innen származik a fogyasztói infláció. Ez az egyetlen forrása a
+145	;	00:14:01,480 --> 00:14:07,760	;	fogyasztói inflációnak – a pénz nyomtatása, amely a vállalkozásokat ezekre a változtatásokra kényszeríti.
+146	;	00:14:07,760 --> 00:14:14,000	;	Ha egy vállalkozás közvetlenül áthárítja az áremelkedést, vagy ha csökkenti a termék méretét, és a
+147	;	00:14:14,000 --> 00:14:18,833	;	vásárlóknak most többet kell vásárolniuk belőle, hogy kielégítsék igényeiket (például 100 gramm helyett 90
+148	;	00:14:18,833 --> 00:14:23,720	;	grammot kapnak), mindkét eset csökkenti az elérhetőséget. Ez azt jelenti, hogy a lakosság szegényedik. Kevesebb
+149	;	00:14:23,720 --> 00:14:29,040	;	elkölthető jövedelmük lesz, még ha ugyanazokat a dolgokat vásárolják is, mint korábban.
+150	;	00:14:30,720 --> 00:14:35,720	;	Ha ehelyett a vállalkozás az árat és a méretet változatlanul hagyja,
+151	;	00:14:35,720 --> 00:14:40,600	;	de csökkenti a költségeket, a legnyilvánvalóbb lépés az, hogy embereket bocsát el, ami
+152	;	00:14:40,600 --> 00:14:46,680	;	munkanélküliséghez vezet. Most kevesebb embernek van munkája, ami csökkenti a lakosság általános
+153	;	00:14:46,680 --> 00:14:52,080	;	vásárlóerejét Fiatello világában. De nem csak ez: a kormánynak egy második
+154	;	00:14:52,080 --> 00:14:57,080	;	problémát is meg kell oldania – hogyan támogassa azokat az embereket, akik nemrég váltak munkanélkülivé.
+155	;	00:14:57,080 --> 00:15:03,880	;	Az egyik legártalmasabb módja az inputköltségek csökkentésének a minőség csökkentése.
+156	;	00:15:03,880 --> 00:15:08,800	;	Így Fiatello azt látja, hogy a lakosság körében nő az elhízás, mert
+157	;	00:15:08,800 --> 00:15:13,840	;	az élelmiszerek, amelyek korábban frissek voltak és magas minőségű alapanyagokat tartalmaztak, egyre alacsonyabb
+158	;	00:15:13,840 --> 00:15:18,800	;	minőségű alapanyagokra és iparilag feldolgozott anyagokra cserélődnek. Ez elhízáshoz és számos
+159	;	00:15:18,800 --> 00:15:24,320	;	másodlagos egészségügyi problémához vezet, ami egészségügyi válságot okoz, és a kormánynak
+160	;	00:15:24,320 --> 00:15:28,960	;	most ki kell találnia, hogyan támogassa azokat az embereket, akik egészségtelenné váltak.
+161	;	00:15:30,680 --> 00:15:36,320	;	A harmadik hatás az eszközök inflációja. Mióta Fiatello megnyomta a Nagy Piros Gombot,
+162	;	00:15:36,320 --> 00:15:40,960	;	az eszközárak emelkednek. A részvénypiac egyre magasabbra szárnyal,
+163	;	00:15:40,960 --> 00:15:47,200	;	az ingatlanárak pedig egyre drágábbak. Fiatello azt gondolja: „Valami gazdasági zseni vagyok.”
+164	;	00:15:47,200 --> 00:15:53,280	;	De ezek az árak azért emelkednek, mert több Fiatello került a rendszerbe, így bárki, aki tudja, hogy
+165	;	00:15:53,280 --> 00:15:58,160	;	több Fiatello van a rendszerben, természetesen nem adná el az eszközeit ugyanazon az áron, mint
+166	;	00:15:58,160 --> 00:16:02,480	;	tegnap. Figyelembe veszik, hogy több Fiatello van a rendszerben, és ez hajtja
+167	;	00:16:02,480 --> 00:16:08,800	;	fel az árakat. De ez az eszközár-emelkedés jó azoknak, akik birtokolják
+168	;	00:16:08,800 --> 00:16:14,720	;	az eszközöket, viszont nem jó azoknak, akik nem. Így egy vagyoni egyenlőtlenség kezd kialakulni a
+169	;	00:16:14,720 --> 00:16:19,960	;	gazdaságban. És nemcsak ez, de mivel az ingatlanárak most drágábbak, a bérleti díjak is emelkednek.
+170	;	00:16:19,960 --> 00:16:24,560	;	Így Fiatello egyre több hajléktalant lát, és ez a növekvő hajléktalanság
+171	;	00:16:24,560 --> 00:16:30,360	;	– vajon mi történik? – még több kormányzati beavatkozást igényel a probléma kezelésére. Az eszközárak szárnyalnak,
+172	;	00:16:30,360 --> 00:16:35,280	;	a tőzsde lángol, és a lakosság körében az uralkodó nézet az:
+173	;	00:16:35,280 --> 00:16:40,400	;	"Miért ne fektetnék be? Miért tartanám meg a pénzemet? A tőzsdéznem kell,
+174	;	00:16:40,400 --> 00:16:43,960	;	befektetnem kell, vennem kell egy második házat kiadásra, spekulatív eszközöket kell vásárolnom,
+175	;	00:16:43,960 --> 00:16:49,920	;	mert ezek soha nem esnek, csak emelkednek. Ha nem fektetek be, bolond vagyok." Mivel
+176	;	00:16:49,920 --> 00:16:54,320	;	az eszközárak emelkednek, a bankok egyre nagyobb hitellehetőségeket kínálnak az embereknek. Egyre nagyobb
+177	;	00:16:54,320 --> 00:17:00,880	;	jelzáloghiteleket adnak a magánszemélyeknek, kölcsönöket a vállalatoknak, de mivel az ingatlanárak már emelkedtek,
+178	;	00:17:00,880 --> 00:17:06,360	;	és mindenki egyre több adósságot halmoz fel, miközben a családok küzdenek a mindennapi megélhetés
+179	;	00:17:06,360 --> 00:17:12,960	;	megfizethetőségével, egyre nehezebb házat vásárolni. Korábban a családok egy fő
+180	;	00:17:12,960 --> 00:17:19,080	;	keresetéből is megengedhették maguknak, hogy jelzáloghitellel házat vásároljanak, ma már nem tudják.
+181	;	00:17:19,080 --> 00:17:25,800	;	Most mindkét szülőnek dolgoznia kell. Mindkét szülőnek dolgoznia kell ahhoz, hogy megengedhessék maguknak a jelzáloghitelt és a megélhetést,
+182	;	00:17:25,800 --> 00:17:30,320	;	és amikor ez történik, az emberek kevesebb időt töltenek együtt. Elkezdődik a nukleáris
+183	;	00:17:30,320 --> 00:17:35,080	;	család bomlása. Kevesebb időt töltenek a gyerekeikkel, és kevesebb gyereket tudnak vállalni.
+184	;	00:17:35,080 --> 00:17:41,280	;	Mivel a születési ráta csökken, Fiatello változást kezd észlelni a népesség
+185	;	00:17:41,280 --> 00:17:46,760	;	demográfiájában. Kevesebb gyerek születik, miközben az
+186	;	00:17:46,760 --> 00:17:52,040	;	idősebb generációk tovább élnek, és Fiatello rájön, hogy az idősebb generációknak tett ígéreteit
+187	;	00:17:52,040 --> 00:17:56,880	;	– például a bizonyos életkorban való nyugdíjazást, a jó életminőséget
+188	;	00:17:56,880 --> 00:18:02,240	;	vagy a meghatározott nyugdíjjövedelmet – nem tudja teljesíteni.
+189	;	00:18:02,240 --> 00:18:07,160	;	Azok számára, akik nem elég szerencsések ahhoz, hogy házat vásároljanak, és bérlésre kényszerülnek,
+190	;	00:18:07,160 --> 00:18:12,320	;	míg korábban gondolhattak arra, hogy 3-5 évig ugyanabban a helyen béreljenek, most,
+191	;	00:18:12,320 --> 00:18:16,560	;	mivel a bérleti díjak évente túl sokat emelkednek, inkább csak egy-két évre
+192	;	00:18:16,560 --> 00:18:21,440	;	terveznek. Kevesebbet terveznek a jövőre, talán elhalasztják a házasságot vagy a
+193	;	00:18:21,440 --> 00:18:27,960	;	gyerekvállalást. Elkezdik előnyben részesíteni a jelent a jövő rovására. 
+194	;	00:18:27,960 --> 00:18:31,760	;	Az emberek látják, hogy a Fiatelloik megtakarítása nem visz őket sehová, mert az eszközárak
+195	;	00:18:31,760 --> 00:18:35,680	;	túl gyorsan emelkednek – soha nem lesznek képesek házat venni. Ha soha nem tudsz házat vásárolni,
+196	;	00:18:35,680 --> 00:18:42,760	;	akkor inkább "éld a legjobb életedet", menj nyaralni, költs többet, élvezd az életet.
+197	;	00:18:42,760 --> 00:18:47,200	;	Azok számára viszont, akik nem ilyen szerencsések, akik számára minden nap küzdelem az,
+198	;	00:18:47,200 --> 00:18:52,160	;	hogy ételt tegyenek az asztalra, hogy lakhatást biztosítsanak maguknak és családjuknak –
+199	;	00:18:52,160 --> 00:19:00,200	;	ők a lejtőn vannak. Minden nap nehezebb, ami a függőségek növekedéséhez vezet.
+200	;	00:19:00,200 --> 00:19:04,000	;	A függőség különböző formái, köztük az opioidok használata is egyre nő Fiatello szigetén, ami
+201	;	00:19:04,000 --> 00:19:09,600	;	még több egészségügyi válságot idéz elő, és még több kormányzati beavatkozást igényel.
+202	;	00:19:09,600 --> 00:19:14,960	;	Mindez pedig egy mentális egészségügyi válsághoz vezet a lakosság körében.
+203	;	00:19:14,960 --> 00:19:19,760	;	Most a kormány olyan helyzetben találja magát, hogy mivel megnyomta a Nagy Piros Gombot, egy
+204	;	00:19:19,760 --> 00:19:26,960	;	sor másodlagos problémát hozott létre, amelyeket most meg kell próbálnia megoldani. Mivel
+205	;	00:19:26,960 --> 00:19:32,240	;	be kell avatkoznia, hogy megoldja ezeket a problémákat, a kormánynak több tőkét kell ezekre
+206	;	00:19:32,240 --> 00:19:37,280	;	a gazdasági területekre irányítania, ami ismét nagyobb tőkeallokációs torzulást okoz,
+207	;	00:19:37,280 --> 00:19:42,160	;	és még több vállalkozót vonz a gazdaság rossz részeire az árjelzések torzulása miatt.
+208	;	00:19:42,160 --> 00:19:45,280	;	A bankok által hajtott gazdasági tőkeáttétel növekedése és a tőke rossz elosztása
+209	;	00:19:45,280 --> 00:19:50,360	;	megalapozza a következő válságot... és Fiatello számára csak
+210	;	00:19:50,360 --> 00:19:55,280	;	egyetlen választás marad – újra megnyomni a Nagy Piros Gombot!
+211	;	00:19:55,280 --> 00:20:00,160	;	Most kezdi felismerni, hogy valójában ez nem volt következmények nélküli.
+212	;	00:20:00,160 --> 00:20:05,000	;	Most már egyik válságból a másik, még nagyobb válság felé sodródik. Megnyomja a Nagy Piros Gombot, ami
+213	;	00:20:05,000 --> 00:20:11,000	;	leértékeli a valutát, ami nagyobb kormányzathoz és több beavatkozáshoz vezet mindenbe.
+214	;	00:20:11,000 --> 00:20:15,080	;	És most nemcsak hogy a kormány nagyobb, de a kormány körül egy sor
+215	;	00:20:15,080 --> 00:20:21,120	;	parazita iparág alakult ki. A Big Pharma egyre nagyobb mértékben
+216	;	00:20:21,120 --> 00:20:24,000	;	együttműködik a kormánnyal, hogy kezelje a különböző egészségügyi válságok tüneteit,
+217	;	00:20:24,000 --> 00:20:29,560	;	de nem az okait. Nem ösztönzi semmi arra, hogy valakit valóban
+218	;	00:20:29,560 --> 00:20:36,720	;	meggyógyítsanak, csak arra, hogy hosszú távon kezeljék őket, mert egy egészséges ügyfél elveszett ügyfél.
+219	;	00:20:36,720 --> 00:20:40,920	;	A Big Food arra törekszik, hogy egyre alacsonyabb élelmiszer-szabványokat állítsanak be a gazdaságban.
+220	;	00:20:40,920 --> 00:20:43,360	;	A hadiipari komplexum arra törekszik, hogy egyre
+221	;	00:20:43,360 --> 00:20:48,320	;	nagyobb összegeket költsenek a védelemre, mind belföldön, mind külföldön.
+222	;	00:20:48,320 --> 00:20:53,760	;	A Wall Street pedig nyakig ül az adósságban, és olyan mértékben tőkeáttételes, hogy a kormány
+223	;	00:20:53,760 --> 00:20:58,760	;	meg akarja védeni őket. Nem engedhetik meg, hogy a bankok csődbe menjenek – 
+224	;	00:20:58,760 --> 00:21:02,680	;	mert ha a bankok csődbe mennek, a lakosság elveszíti a pénzét, és a kormány megbukik.
+225	;	00:21:02,680 --> 00:21:06,440	;	A kormány továbbra is nem produktív beruházásokat hajt végre.
+226	;	00:21:06,440 --> 00:21:10,800	;	Olyan beruházásokat, amelyekkel megpróbálja kezelni az általa létrehozott másodlagos problémákat,
+227	;	00:21:10,800 --> 00:21:16,320	;	de olyan beruházásokat is, amelyeket a kormány bármilyen politikai ideológiája vezérel.
+228	;	00:21:16,320 --> 00:21:21,280	;	Mindez gyakorlatilag most már *haveri korporatizmus*. Nagyon nehéz megmondani, hol ér véget
+229	;	00:21:21,280 --> 00:21:27,920	;	a kormány, és hol kezdődnek ezek az iparágak. A kormány sikere szorosan összefonódik
+230	;	00:21:27,920 --> 00:21:32,160	;	az iparágak sikerével. Ezek az iparágak elkezdik kérni a kormányt,
+231	;	00:21:32,160 --> 00:21:37,440	;	hogy szabályozza őket: „Szabályoznod kell minket, hogy megvédd a közvéleményt.” De ez a szabályozás
+232	;	00:21:37,440 --> 00:21:43,160	;	valójában csak megnehezíti a versenyt. Az egy-két-három nagyvállalat minden területen
+233	;	00:21:43,160 --> 00:21:46,520	;	nagyon közel kerül a kormányhoz. Ők biztosítják az embereket a szabályozó testületekhez,
+234	;	00:21:46,520 --> 00:21:51,680	;	és amikor a szabályozók hivatali idejük végére érnek, visszamennek ezekhez a vállalatokhoz dolgozni. Ez
+235	;	00:21:51,680 --> 00:21:56,560	;	megakadályozza, hogy kisebb cégek belépjenek és versenyezzenek velük, hogy jobb feltételekkel és magasabb
+236	;	00:21:56,560 --> 00:22:04,000	;	minőségű termékekkel lássák el a kormányt. Így a minőség romlani kezd, az árak pedig emelkednek,
+237	;	00:22:04,000 --> 00:22:09,360	;	ami természetesen nagyszerű hír ezeknek a cégeknek, mert a haszonkulcsuk növekszik.
+238	;	00:22:09,360 --> 00:22:15,400	;	Ezután a média is elfoglalásra kerül. A kormány ingatag helyzetben van, hogy fenntartsa a társadalmi
+239	;	00:22:15,400 --> 00:22:20,880	;	stabilitást. Most már ezeknek az iparágaknak a védelmét helyezi előtérbe a lakosság helyett.
+240	;	00:22:20,880 --> 00:22:28,840	;	És mivel meg kell tartania a társadalmi egyensúlyt, nem engedheti meg a szólásszabadságot,
+241	;	00:22:28,840 --> 00:22:33,640	;	az eltérő véleményeket, az alternatív nézeteket vagy bármit, ami bármilyen
+242	;	00:22:33,640 --> 00:22:37,680	;	módon aláásná a kormány legitimitását. Nemcsak ez, de a legnagyobb
+243	;	00:22:37,680 --> 00:22:42,480	;	hirdetők a médiumok számára azok a cégek, amelyek kapcsolatban állnak a kormánnyal,
+244	;	00:22:42,480 --> 00:22:46,520	;	így a médiumok egyre kevésbé akarják feldühíteni a hirdetőiket.
+245	;	00:22:46,520 --> 00:22:51,680	;	Amikor a média elfoglalásra kerül, és a hadiipari komplexum külföldi konfliktusokat szít,
+246	;	00:22:51,680 --> 00:22:58,680	;	létrejönnek az *örök háborúk*. És magukat a háborúkat aktívan támogatja
+247	;	00:22:58,680 --> 00:23:00,960	;	a Fiatello lakosság, mert a médiában csak azt
+248	;	00:23:00,960 --> 00:23:06,440	;	látják: „Ezt meg kell tennünk, mert ez a helyes dolog.”
+249	;	00:23:06,440 --> 00:23:11,560	;	Az örök háborúk, a bankrendszer megmentése és a túlzott eladósodottság a következő válsághoz vezet,
+250	;	00:23:11,560 --> 00:23:17,520	;	de ezúttal sokkal nagyobb mértékben, és Fiatello-nak egyetlen választása van:
+251	;	00:23:17,520 --> 00:23:22,160	;	újra megnyomni a Nagy Piros Gombot. De ezúttal más a helyzet. Egy hatalmas bizalomvesztés
+252	;	00:23:22,160 --> 00:23:28,760	;	következik be. Minden egyes alkalommal, amikor megnyomja a gombot, egyre több ember érti meg,
+253	;	00:23:28,760 --> 00:23:33,360	;	hogy mi történik, és ez így megy körbe-körbe, amíg valami meg nem szakad.
+254	;	00:23:33,360 --> 00:23:36,880	;	Most Fiatello kezdi komolyan aggódni.
+255	;	00:23:36,880 --> 00:23:43,480	;	Mi történik a pénzzel? Nos, ahelyett, hogy évente 3%-kal növekedne a vásárlóereje,
+256	;	00:23:43,480 --> 00:23:49,640	;	most évente 7%-ot veszít, mert 10%-kal több pénzt nyomtat. Ráadásul aláássa
+257	;	00:23:49,640 --> 00:23:54,880	;	a gazdaság termelékenységét az árjelzések torzításával.
+258	;	00:23:54,880 --> 00:23:57,400	;	Mi történik a Fiatello sziget lakosságával?
+259	;	00:23:57,400 --> 00:24:01,840	;	Azok, akik alacsony fix bérből élnek, minimális jövedelmi biztonsággal
+260	;	00:24:01,840 --> 00:24:08,200	;	és nincs vagyonuk – nem tudnak nyerni. Évről évre egyre szegényebbé válnak.
+261	;	00:24:08,200 --> 00:24:14,000	;	A közepes keresetűek, akik fix fizetéssel és vegyes jövedelmi biztonsággal rendelkeznek – nem ők az elsők,
+262	;	00:24:14,000 --> 00:24:18,680	;	akiket elbocsátanak –, gyakran van otthonuk, de azt soha nem tudják eladni,
+263	;	00:24:18,680 --> 00:24:21,960	;	hogy nyereséget realizáljanak, mert valahol élniük kell. Ha eladnak egy házat, újat kell
+264	;	00:24:21,960 --> 00:24:28,840	;	venniük. Lehet, hogy vannak befektetéseik, de ők válnak az új szegényekké.
+265	;	00:24:28,840 --> 00:24:32,640	;	Bizonyára a gazdagok jól járnak, nem? Jövedelmük nagy része eszközök hozamaiból,
+266	;	00:24:32,640 --> 00:24:39,080	;	működő vállalkozásokból vagy befektetésekből származik. Jövedelmi biztonságuk magas, mert nem lehet
+267	;	00:24:39,080 --> 00:24:47,400	;	őket kirúgni, de számukra ez ezer apró vágással történő halál. A vagyonuk számai folyamatosan
+268	;	00:24:47,400 --> 00:24:53,600	;	növekednek, de úgy érzik, hogy szegényebbé válnak. Az élet egyre nehezebb,
+269	;	00:24:53,600 --> 00:24:57,480	;	mert a pénzkeresésük üteme, az eszközeik hozama alacsonyabb,
+270	;	00:24:57,480 --> 00:25:02,480	;	mint a Fiatello által nyomtatott pénz üteme, így lassan a vagyonukat
+271	;	00:25:02,480 --> 00:25:09,200	;	elszívják a politikailag kapcsolt szereplők. Azok, akik kormányzati támogatásban részesülnek,
+272	;	00:25:09,200 --> 00:25:14,800	;	és teljesen védett jövedelmi biztonságuk van, paradox módon jövedelmük növekszik, és még
+273	;	00:25:14,800 --> 00:25:22,240	;	értékesebbé válik, ahogy a társadalom tovább hanyatlik, mert a kormánynak egyre több beavatkozásra van szüksége.
+274	;	00:25:22,240 --> 00:25:28,480	;	Ezen a ponton ez már ipari szintű lopás a társadalom minden tagjától.
+275	;	00:25:28,480 --> 00:25:33,680	;	De most már annyi idő telt el, hogy a sziget közepén lévő fal repedezni kezd,
+276	;	00:25:33,680 --> 00:25:37,120	;	és úgy repedezik, hogy mind az emberek, mind a pénz
+277	;	00:25:37,120 --> 00:25:39,960	;	elkezdhet áramolni az egyik oldalról a másikra.
+278	;	00:25:39,960 --> 00:25:44,400	;	Az egyik oldalon ott vannak a Satoshik, amelyek vásárlóereje évente 3%-kal növekszik,
+279	;	00:25:44,400 --> 00:25:49,760	;	a másik oldalon a Fiatellók, amelyek évente 7%-kal veszítenek vásárlóerejükből.
+280	;	00:25:49,760 --> 00:25:53,400	;	Mi történik és miért?
+281	;	00:25:53,400 --> 00:25:58,240	;	Amit Fiatello elkezd látni, az az, hogy a pénz és az emberek elkezdenek távozni,
+282	;	00:25:58,800 --> 00:26:05,360	;	mert nem bíznak abban, hogy Fiatellókkal meg tudnak takarítani. Satoshikra vágynak.
+283	;	00:26:05,360 --> 00:26:10,840	;	Tehát ez az összegzés: Fiatello szabványon a pénzed ellopja tőled az értéket,
+284	;	00:26:10,840 --> 00:26:20,000	;	míg Satoshi szabványon a világ egésze 24/7 azon dolgozik, hogy növelje a vásárlóerődet.
+285	;	00:26:20,000 --> 00:26:24,520	;	De most a menekülési szelep nyitva van. Az emberek rájönnek, hogy nem tudnak Fiatellókban megtakarítani, ezért
+286	;	00:26:24,520 --> 00:26:29,280	;	elkezdik eladni a Fiatellókat, hogy Satoshikat vásároljanak, így a Fiatellók értéke tovább csökken,
+287	;	00:26:29,280 --> 00:26:33,920	;	ami további költségvetési és pénzügyi válságokat vált ki, amelyeket Fiatellónak kell kezelnie... és az
+288	;	00:26:33,920 --> 00:26:38,960	;	egyetlen választás ismét a Nagy Piros Gomb megnyomása! De ezúttal a pénznyomtatás nem elég,
+289	;	00:26:38,960 --> 00:26:47,080	;	mert az érték kiszivárog Fiatello szigetoldaláról. Fiatellónak meg kell változtatnia a tökéletes pénz
+290	;	00:26:47,080 --> 00:26:54,480	;	egy másik tulajdonságát: el kell távolítania annak cenzúra-ellenálló természetét.
+291	;	00:26:54,480 --> 00:26:58,240	;	Korábban a Fiatello lakosság maga birtokolhatta a pénzt,
+292	;	00:26:59,280 --> 00:27:04,480	;	de most Fiatello azt mondja, hogy többé nem birtokolhatják maguk. A pénzt a bankokban kell elhelyezniük.
+293	;	00:27:04,480 --> 00:27:10,240	;	A bankok fogják kezelni mindenki pénzét. A lakosság most úgy érzi, bűnös,
+294	;	00:27:10,240 --> 00:27:16,200	;	amíg ártatlanságát nem bizonyítja minden tranzakció esetén – a bankok minden tranzakciót ellenőriznek, hogy „megvédjenek
+295	;	00:27:16,200 --> 00:27:23,320	;	téged”, ami azt jelenti, hogy amikor az emberek bizonyos dolgokat, például Satoshikat próbálnak
+296	;	00:27:23,320 --> 00:27:27,200	;	vásárolni, a bankok most azt mondják: „Nem… ez azért van, mert…”
+297	;	00:27:27,200 --> 00:27:33,960	;	És Fiatello korlátozza a tőke áramlását Fiatello szigetoldaláról. Talán egyenesen
+298	;	00:27:33,960 --> 00:27:40,280	;	tőkeellenőrzést vezet be: „Mostantól egyáltalán nem vásárolhatsz Satoshikat.” De
+299	;	00:27:40,280 --> 00:27:44,240	;	az emberek mindig találnak utat, és egyre többen ébrednek rá, mi történik, és a ciklus
+300	;	00:27:44,240 --> 00:27:52,640	;	folytatódik. A lényeg, hogy a vagyon és az emberek az érintetlen pénzhez menekülnek.
+301	;	00:27:52,640 --> 00:27:56,680	;	Most Fiatello valóban pánikba esik.
+302	;	00:27:56,680 --> 00:28:04,360	;	Tehát hol ér véget Fiatello számára? Nos, ha szerencséje van, a tartós inflációval, amely lehetővé
+303	;	00:28:04,360 --> 00:28:10,520	;	teszi a kormány számára, hogy inflációval leépítse az adósságait, és lassan elszívja a közvélemény vagyonát.
+304	;	00:28:10,520 --> 00:28:16,320	;	Ez akár hiperinfláció határán is mozoghat. „Szerencséje van”, mert ezt nagyon nehéz
+305	;	00:28:16,320 --> 00:28:22,360	;	megvalósítani és közben fenntartani a társadalmi kohéziót, és valószínűleg valami rosszul sül el.
+306	;	00:28:22,360 --> 00:28:27,800	;	Biztosan bekövetkezik az eszközök elkobzása. Most, hogy az összes pénzt a bankokban tartják, egy
+307	;	00:28:27,800 --> 00:28:35,160	;	nap Fiatello azt fogja kijelenteni, hogy „mindannyian együtt vagyunk ebben”, és a bankok átadják a
+308	;	00:28:35,160 --> 00:28:41,160	;	tőke egy részét a kormánynak. Pontosan úgy, mint Cipruson 2013-ban – ha több mint
+309	;	00:28:41,160 --> 00:28:46,680	;	100 000 eurót tartottál a bankban, egy éjszaka alatt annak 45%-a a kormányhoz került. A közvélemény
+310	;	00:28:46,680 --> 00:28:54,680	;	gyakorlatilag bele lett vonva abba, hogy kimentsék a bankokat és a kormányt a saját rossz gazdálkodásukból.
+311	;	00:28:54,680 --> 00:29:02,880	;	Ez az Egyesült Államokban is megtörtént 1933-ban. Illegálissá tették az egyéni aranytulajdonlást,
+312	;	00:29:02,880 --> 00:29:07,840	;	és ez majdnem 40 évig tartott. Ha több mint 100 dollárnyi aranyat tartottál és elkaptak:
+313	;	00:29:07,840 --> 00:29:15,720	;	10 000 dolláros bírság vagy 10 év börtön járt érte, amikor 10 000 dollár *hatalmas* összeg volt.
+314	;	00:29:15,720 --> 00:29:21,200	;	Fiatello politikai szélsőségek növekedését látja mindkét oldalon. A kormány soha
+315	;	00:29:21,200 --> 00:29:25,680	;	nem magyarázza el a lakosságnak, honnan erednek ezek a problémák. Nem mondják el
+316	;	00:29:25,680 --> 00:29:31,040	;	nekik, hogy a Nagy Piros Gomb által végzett pénznyomtatás okozza őket. Ellenőrzik
+317	;	00:29:31,040 --> 00:29:35,760	;	a médiát. A kormány védi önmagát. Nem mondják el az igazat a lakosságnak.
+318	;	00:29:35,760 --> 00:29:40,920	;	Nem segítenek nekik összekapcsolni a pontokat. Nem magyarázzák el
+319	;	00:29:40,920 --> 00:29:45,400	;	a Nagy Piros Gomb és a problémák közötti kapcsolatot. Helyette a „kapzsi üzletembereket”, a
+320	;	00:29:45,400 --> 00:29:51,440	;	„milliárdosokat”, a „külföldi diktátorokat” vagy valami mást hibáztatnak. Aztán mi történik?
+321	;	00:29:51,440 --> 00:29:56,200	;	Az emberek több segítséget és támogatást kérnek a kormánytól ezeknek a problémáknak a kezelésére, így
+322	;	00:29:56,200 --> 00:30:02,320	;	az egyetlen megoldás a kormány fokozottabb bevonása mindenbe. Ezen az úton
+323	;	00:30:02,320 --> 00:30:09,600	;	minden probléma megoldása mindig *több kormányzati beavatkozás* volt, így az emberek látják ezeket
+324	;	00:30:09,600 --> 00:30:20,040	;	a problémákat, és több kormányzati beavatkozásra szavaznak, hogy megoldják őket… vagy valami még rosszabbra.
+325	;	00:30:20,040 --> 00:30:25,480	;	De minden forgatókönyvben az emberek Satoshikat akarnak tartani, nem Fiatellókat.
+326	;	00:30:25,480 --> 00:30:32,040	;	Ha visszatérünk a tökéletes pénz hét tulajdonságának listájához – Fiatello
+327	;	00:30:32,040 --> 00:30:38,920	;	csak kettőt változtatott meg közülük. Az öt másik pontosan ugyanaz maradt, és nézd meg, hova jutott.
+328	;	00:30:38,920 --> 00:30:42,200	;	És most a leleplezés (és lehet, hogy néhányan már előttem jártok itt):
+329	;	00:30:42,200 --> 00:30:51,200	;	az amerikai dollár csupán egy rossz változata a Fiatellónak.
+330	;	00:30:51,200 --> 00:30:56,080	;	Az amerikai dollár ugyanazon a két kulcskérdésen romlott, mint
+331	;	00:30:56,080 --> 00:31:01,080	;	a Fiatellók, de az öt másikban is lényegesen rosszabb.
+332	;	00:31:01,080 --> 00:31:04,120	;	Hordozhatóság szempontjából könnyű vinni,
+333	;	00:31:04,120 --> 00:31:09,600	;	könnyű fizetni vele, de nem nagyszerű a kereskedők számára. Azonnal fizetsz, de a kereskedő csak
+334	;	00:31:09,600 --> 00:31:15,000	;	napokkal később kapja meg a pénzt, ha nem volt csalás vagy visszaterhelés.
+335	;	00:31:15,000 --> 00:31:20,480	;	Osztható, de csak egy bizonyos pontig, és megszünteti a mikrotranzakciók lehetőségét,
+336	;	00:31:20,480 --> 00:31:24,800	;	amelyek potenciálisan teljesen új gazdasági modelleket nyithatnának meg.
+337	;	00:31:24,800 --> 00:31:32,560	;	Tartós digitális formában, de van készpénzes összetevője, és ez a készpénzes összetevő folyamatosan
+338	;	00:31:32,560 --> 00:31:38,160	;	gyengül. A bankjegyek dizájnját 15-20 évente újranyomtatják, így
+339	;	00:31:38,160 --> 00:31:44,240	;	az egyén nem tud a bankrendszeren kívül megtakarítani. Ha a bankjegyeket az ágyad alá
+340	;	00:31:44,240 --> 00:31:49,720	;	vagy a padlódeszkák alá rejted, és 25 év múlva előveszed, értéktelenek lesznek. Ezek a típusú
+341	;	00:31:49,720 --> 00:31:55,360	;	bankjegyek kikerülnek a forgalomból, így 15-20 évente el kell vinned a bankba, be kell cserélned
+342	;	00:31:55,360 --> 00:32:03,000	;	őket új bankjegyekre. Rendszeresen újraközpontosítanak mindent, szándékosan.
+343	;	00:32:03,000 --> 00:32:07,600	;	A dollárok helyettesíthetők, ami azt jelenti, hogy minden dollár ugyanolyan, mint a többi... amíg
+344	;	00:32:07,600 --> 00:32:11,320	;	nem. Néhány ország már bevezette a CBDC-ket (központi banki digitális pénz),
+345	;	00:32:11,320 --> 00:32:16,720	;	amely gyakorlatilag programozható pénz.
+346	;	00:32:16,720 --> 00:32:21,400	;	Egy adott dollárnak lehet lejárati ideje – el kell költeni egy bizonyos
+347	;	00:32:21,400 --> 00:32:26,960	;	időszak alatt, különben eltűnik. Vagy egy dollárnak csak bizonyos felhasználási esetei
+348	;	00:32:26,960 --> 00:32:34,280	;	lehetnek – ezt a dollárt X vagy Y célra kell elköltened, vagy nem költheted el ABC-re.
+349	;	00:32:34,280 --> 00:32:40,360	;	A dollár világszerte széles körben elfogadott, de nem mindenhol lehet vele fizetni,
+350	;	00:32:40,360 --> 00:32:46,200	;	és jellemzően a legtöbb nemzeti valuta csak saját országában elfogadott.
+351	;	00:32:46,200 --> 00:32:48,880	;	Az Egyesült Államoknak komoly Fiatello-problémája van.
+352	;	00:32:48,880 --> 00:32:55,560	;	Ez a 2024-es költségvetés – nem a tényleges adatok, amelyek természetesen rosszabbak voltak –
+353	;	00:32:55,560 --> 00:33:03,040	;	majdnem 2 billió dolláros hiánnyal, miközben a kiadások valamivel meghaladják a 6 billió dollárt.
+354	;	00:33:03,040 --> 00:33:06,960	;	Ez egy éves veszteség. Hogy ezt kontextusba helyezzük, az Államokban mindenkinek meg kellene kétszereznie
+355	;	00:33:06,960 --> 00:33:12,160	;	az egyéni jövedelemadóját, hogy ezt kiegyenlítsék, és a kiadási oldalon lehet néhány javítást eszközölni,
+356	;	00:33:12,160 --> 00:33:20,000	;	de vannak kulcsfontosságú dolgok, amelyeket egyszerűen nem lehet eltávolítani, például az adósságkamatokat.
+357	;	00:33:20,000 --> 00:33:27,160	;	És a következmények? Nos, ez egy diagram az amerikai rendszerben lévő pénzmennyiségről dollárban,
+358	;	00:33:27,160 --> 00:33:33,320	;	valamint az amerikai kormány által kibocsátott adósság mennyiségéről az idő múlásával. Itt bejelöltem 1971-et,
+359	;	00:33:33,320 --> 00:33:40,080	;	mert ekkor lépett ki Amerika egyoldalúan az aranyalapról. 1971 előtt visszavihetted a
+360	;	00:33:40,080 --> 00:33:46,600	;	dollárokat, és aranyat kaphattál értük cserébe. Nixon leválasztotta az Amerikát az aranyalapról,
+361	;	00:33:46,600 --> 00:33:52,840	;	és azóta a világ minden valutája követte ezt, lehetővé téve az számukre, hogy korlátlan
+362	;	00:33:52,840 --> 00:33:59,320	;	mennyiségű pénzt nyomtasson saját szükségleteinek kielégítésére.  A bal oldali tengelyen a piros diagram
+363	;	00:33:59,320 --> 00:34:06,440	;	azt mutatja, hogy a pénzmennyiség most 22 billió dollár, a jobb oldalon pedig az amerikai államadósság,
+364	;	00:34:06,440 --> 00:34:11,160	;	amely még egy hónappal később is elavult – most már 36 billió dollár!
+365	;	00:34:11,160 --> 00:34:14,880	;	Ez nem tartalmazza a nem finanszírozott kötelezettségeket – azt az összeget,
+366	;	00:34:14,880 --> 00:34:19,600	;	amelyet az amerikai kormány a jövőben köteles kifizetni a társadalombiztosítás,
+367	;	00:34:19,600 --> 00:34:24,360	;	Medicare, Medicaid stb. révén, de a csekket még nem kellett megírni. Ennek összege
+368	;	00:34:24,360 --> 00:34:31,160	;	számítástól függően 50 és 200 billió dollár között van, a 36 billió dolláros adósságon felül!
+369	;	00:34:31,160 --> 00:34:35,520	;	Az egyetlen mód ennek megoldására a további pénznyomtatás. A pénz nyomtatása
+370	;	00:34:35,520 --> 00:34:41,040	;	rendszerszerűen rombolja a dollár vásárlóerejét.
+371	;	00:34:41,040 --> 00:34:44,440	;	Most azt gondolhatod, hogy valami kifogásom van a dollár ellen. Egyáltalán nincs! A dollár
+372	;	00:34:44,440 --> 00:34:48,360	;	a *legjobb*, ami jelenleg létezik. Szeretném használni a dollárt, ahogyan a világ
+373	;	00:34:48,360 --> 00:34:54,760	;	legtöbb embere is, de sajnos a legtöbb ember nem ilyen szerencsés.
+374	;	00:34:54,760 --> 00:34:57,920	;	Ez az összes többi valuta teljesítménye a dollárral szemben
+375	;	00:34:57,920 --> 00:35:03,120	;	az elmúlt 10 évben. Néhány szinte teljesen eltűnt, néhány pedig ténylegesen
+376	;	00:35:03,120 --> 00:35:06,280	;	meg is szűnt létezni. Azok az emberek, akik ezekben a valutákban takarították
+377	;	00:35:06,280 --> 00:35:12,200	;	meg gazdasági energiájukat, látták, hogy azok eltűnnek.
+378	;	00:35:12,200 --> 00:35:17,720	;	A szomorú valóság az, ahogyan a nagyszerű Lyn Alden többször is elmondta:
+379	;	00:35:17,720 --> 00:35:21,800	;	„Semmi nem állítja meg ezt a vonatot.” A kormányok számára nincs kiút.
+380	;	00:35:21,800 --> 00:35:27,640	;	Az egyetlen megoldás, hogy folyamatosan megnyomják a Nagy Piros Gombot.
+381	;	00:35:29,200 --> 00:35:37,080	;	És így a következtetés egy idézet Hayek-től, az osztrák közgazdasági iskola egyik közgazdászától:
+382	;	00:35:37,640 --> 00:35:41,920	;	„A pénz kormányzati kezelésének története, néhány rövid boldog időszak
+383	;	00:35:41,920 --> 00:35:51,000	;	kivételével, állandó csalás és megtévesztés története.” És ezt 1988-ban mondta.
+384	;	00:35:51,000 --> 00:35:57,640	;	Most mindez eléggé lehangoló lenne, ha nem lenne megoldás, de szerencsére van.
+385	;	00:35:59,200 --> 00:36:03,040	;	Az egyetlen megoldás itt a *pénz és az állam
+386	;	00:36:03,040 --> 00:36:10,640	;	szétválasztása*. A kormány nem férhet hozzá a Nagy Piros Gombhoz.
+387	;	00:36:10,640 --> 00:36:16,240	;	És ismét Hayek, ezúttal 1984-ből: „Nem hiszem, hogy valaha is lesz
+388	;	00:36:16,240 --> 00:36:19,880	;	jó pénzünk, amíg ki nem vesszük a kormány kezéből.
+389	;	00:36:19,880 --> 00:36:25,200	;	Nem tudjuk erőszakkal kivenni a kezükből. Csak egy ügyes, kerülő úton
+390	;	00:36:25,200 --> 00:36:31,720	;	vezethetünk be valamit, amit egyszerűen nem tudnak megállítani.” Briliáns idézet.
+391	;	00:36:31,720 --> 00:36:37,240	;	Remélem, most, hogy ezek az összefüggések a Nagy Piros Gomb, a
+392	;	00:36:37,240 --> 00:36:42,480	;	pénznyomtató és a mindennapi életünkben tapasztalt problémák között
+393	;	00:36:42,480 --> 00:36:49,200	;	világosabbak lettek, egyértelművé válik, hogy ha megjavítjuk a pénzt, megjavítjuk a világot.
+394	;	00:36:49,200 --> 00:36:52,440	;	A jó hír pedig, és ez a legjobb hír:
+395	;	00:36:52,440 --> 00:36:57,520	;	a Satoshik léteznek, és még Fiatello is megtért.
+396	;	00:37:00,600 --> 00:37:04,920	;	A megoldás a Bitcoin.
+397	;	00:37:04,920 --> 00:37:13,320	;	Egy Bitcoin 100 millió Satoshi, ugyanúgy, ahogy egy dollár 100 cent.
+398	;	00:37:13,320 --> 00:37:15,640	;	Most azt gondolhatod, hogy már tudsz a Bitcoinról,
+399	;	00:37:15,640 --> 00:37:20,160	;	valami alapján, amit barátaidtól hallottál, vagy amit a médiában olvastál.
+400	;	00:37:20,160 --> 00:37:24,040	;	Arra bátorítanálak, hogy kezdd újra.
+401	;	00:37:24,040 --> 00:37:30,120	;	Amikor az információinkat a médiából szerezzük, vagy olyan emberektől, akik szintén
+402	;	00:37:30,120 --> 00:37:35,720	;	a médiából szerezték azokat, és ez a média kapcsolatban áll azokkal, akik birtokolják és hasznot húznak
+403	;	00:37:35,720 --> 00:37:41,000	;	a pénznyomtatóból, akkor ezek az információk általában nem a legpontosabbak.
+404	;	00:37:41,000 --> 00:37:43,800	;	Tehát ne bízz, ellenőrizz.
+405	;	00:37:45,200 --> 00:37:49,400	;	Gyere a **SatsVsFiat.com** oldalra – létrehoztunk egy weboldalt, amely segít az embereknek
+406	;	00:37:49,400 --> 00:37:54,360	;	elindulni. Ha most kezdenéd, vagy talán még soha nem hallottál a Bitcoinról,
+407	;	00:37:54,360 --> 00:37:58,320	;	iratkozz fel, és küldünk neked információt, hogy magad is tanulhass róla,
+408	;	00:37:58,320 --> 00:38:02,040	;	és saját döntést hozhass a Bitcoinról.
+409	;	00:38:02,040 --> 00:38:07,200	;	Ha már előrébb jársz, és talán már „bitcoinernek” nevezed magad, az fantasztikus.
+410	;	00:38:07,200 --> 00:38:12,040	;	Ez számomra nem kereskedelmi vállalkozás, hanem egy jótékonysági projekt,
+411	;	00:38:12,040 --> 00:38:16,800	;	ezért bármilyen támogatást szívesen fogadnék akár a Bitcoin közösségből, akár azon túlról.
+412	;	00:38:16,800 --> 00:38:22,680	;	Ha valaki szeretné maga tartani ezt az előadást a barátainak, szélesebb körben megosztani,
+413	;	00:38:22,680 --> 00:38:27,440	;	vagy akár önkéntesként előadást tartani a csoportunk részeként, lépjen kapcsolatba velünk.
+414	;	00:38:28,280 --> 00:38:32,360	;	A harmadik dolog pedig az, hogy meghívtok minket előadni – szeretnénk, ha minél több ember
+415	;	00:38:32,360 --> 00:38:36,880	;	látná ezt az előadást, mert a benne lévő információ arról,
+416	;	00:38:36,880 --> 00:38:41,680	;	hogy mi a probléma, rendkívül fontos. Szívesen beszélünk, ha meghívtok minket iskolákba,
+417	;	00:38:41,680 --> 00:38:45,560	;	egyetemekre, ipari konferenciákra, eseményekre,
+418	;	00:38:45,560 --> 00:38:51,200	;	vagy akár munkahelyekre, ha az embereket érdekli, hogy többet tudjanak meg. Szóval kérlek, csak keressetek meg minket.
+419	;	00:38:51,200 --> 00:38:57,640	;	Itt van egy QR-kód, amely közvetlenül a weboldalra vezet. Alternatívaként, ha az
+420	;	00:38:57,640 --> 00:39:05,200	;	**X** platformon vagy, gyere, köszönj, és csatlakozz a beszélgetéshez velünk.
+421	;	00:39:05,200 --> 00:39:11,400	;	Először is, köszönöm, hogy megnézted. Remélem, élvezted. Kérlek, oszd meg
+422	;	00:39:11,400 --> 00:39:16,760	;	bárkivel, aki fontos neked.  És ha van egyetlen dolog, amit ebből magaddal viszel,
+423	;	00:39:16,760 --> 00:39:27,818	;	remélem, az ez lesz:  **Ha megjavítjuk a pénzt, megjavítjuk a világot.**  Köszönöm! [Zene]
+424	;	00:39:27,818 -->  00:39:35,818	;	Fordította: Lóri, https://huszonegy.world/

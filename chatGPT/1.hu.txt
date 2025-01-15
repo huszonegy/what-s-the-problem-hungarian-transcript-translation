@@ -1,3 +1,4 @@
+[Zene]
 Hé, Joe. Hé. "Miről van itt szó? Nos, van egy problémánk, és ez egy nagyon nagy probléma,
 amiről sajnos a legtöbb ember nincs tudatában. Nem számítanak a személyes nézeteid,
 a politikai álláspontod, a vallásod vagy az, hogy hol élsz, mert ha egyszer meglátod a problémát,
@@ -37,7 +38,7 @@ Helyettesíthetőnek kell lennie, vagyis minden darab örökre ugyanaz, mint bá
 Elfogadhatónak kell lennie, hogy bárki bárhol tudjon küldeni és fogadni.
 És az igazán fontos dolog, hogy ellenállónak kell lennie a cenzúrával
 szemben – te magad birtokolod. Senki nem veheti el tőled az
-engedélyed nélkül, és senki nem akadályozhat meg abban, hogy küldj vagy fogadj.  
+engedélyed nélkül, és senki nem akadályozhat meg abban, hogy küldj vagy fogadj.
 Ez nagyszerű, eldöntik, hogy a tökéletes pénzt fogják használni. De aztán vita alakul ki. Két vezető
 emelkedik ki a lakosságból. Az első, Satoshi, azt mondja: "Nos, mivel ezek a
 tökéletes pénz jellemzői, ezek igazak ma, igazak holnap és igazak örökké,
@@ -50,6 +51,6 @@ ha szükséges, bármelyik jellemzőt megváltoztathatjuk. Természetesen soha s
 Ez kibékíthetetlen ellentétet szül, ezért radikális megoldásként
 egy hatalmas falat építenek a sziget közepén. A fal egyik
 oldalán létrehozzák a Satoshik nevű valutát, ami mindig tökéletes pénz,
-a másik oldalon pedig a Fiatellókat, ami tökéletes pénz, de azzal a lehetőséggel, hogy változtatni lehessen rajta.  
+a másik oldalon pedig a Fiatellókat, ami tökéletes pénz, de azzal a lehetőséggel, hogy változtatni lehessen rajta.
 Ez a fal olyan nagy, hogy elvágja a kommunikációt és a kereskedelmet a sziget két
 oldala között, így gyakorlatilag elszigeteltek egymástól.
