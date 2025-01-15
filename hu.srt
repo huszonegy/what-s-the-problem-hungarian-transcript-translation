@@ -400,7 +400,8 @@ végét, a felhalmozott pénzét  
 
 82
 00:08:09,040 --> 00:08:13,840
-és tőkéjét más emberekbe fektetheti. Talán kölcsönt ad a halásznak,  
+és tőkéjét más emberekbe fektetheti. 
+Talán kölcsönt ad a halásznak,  
 
 83
 00:08:13,840 --> 00:08:20,280
@@ -509,67 +510,83 @@ A lényeg itt az, hogy mindketten 
 
 104
 00:10:16,040 --> 00:10:22,680
-hogy ha emeli az adókat vagy csökkenti a kiadásokat, az szavazatokba fog kerülni. Ezért úgy dönt,  
+hogy ha emeli az adókat vagy csökkenti a kiadásokat, 
+az szavazatokba fog kerülni. Ezért úgy dönt,  
 
 105
 00:10:22,680 --> 00:10:29,480
-hogy *csak most az egyszer* megnyomja a Nagy Piros Gombot, és egy kis extra pénzt nyomtat a kormány számára.  
+hogy *csak most az egyszer* megnyomja a Nagy Piros Gombot, 
+és egy kis extra pénzt nyomtat a kormány számára.
 
 106
 00:10:29,480 --> 00:10:34,640
-És mi ennek a következménye? Nos, Satoshi számára nem túl kedvező. Nem rejtheti el  
+És mi ennek a következménye? Nos, Satoshi 
+számára nem túl kedvező. Nem rejtheti el  
 
 107
 00:10:34,640 --> 00:10:39,480
-ezeket a változásokat a lakosság elől, mert az emberek több adót fizetnek, vagy kevesebbet kapnak vissza  
+ezeket a változásokat a lakosság elől, mert az emberek 
+több adót fizetnek, vagy kevesebbet kapnak vissza  
 
 108
 00:10:39,480 --> 00:10:47,360
-a kormány kiadásaiból. Emiatt elveszíti a választásokat. A kormány mérete természetesen csökken,  
+a kormány kiadásaiból. Emiatt elveszíti a választásokat. 
+A kormány mérete természetesen csökken,  
 
 109
 00:10:47,360 --> 00:10:54,000
-így az egész gazdaság hatékonysága növekszik. Nemcsak ez,  
+így az egész gazdaság hatékonysága 
+növekszik. Nemcsak ez,  
 
 110
 00:10:54,000 --> 00:10:59,240
-hanem a társadalmi egyensúly is javul a gazdaságban, mert az emberek ráébrednek, hogy nincs "ingyen pénz".  
+hanem a társadalmi egyensúly is javul a gazdaságban, 
+mert az emberek ráébrednek, hogy nincs "ingyen pénz".  
 
 111
 00:11:00,520 --> 00:11:04,080
-Az adóknak és a kiadásoknak egyensúlyban kell lenniük. A legfontosabb, hogy  
+Az adóknak és a kiadásoknak egyensúlyban 
+kell lenniük. A legfontosabb, hogy  
 
 112
 00:11:04,080 --> 00:11:10,440
-az árak továbbra is csökkennek, és a minőség tovább javul.  
+az árak továbbra is csökkennek, 
+és a minőség tovább javul.
 
 113
 00:11:10,440 --> 00:11:13,960
-Most Fiatello számára – nagyszerű hír: újraválasztják,  
+Most Fiatello számára – nagyszerű 
+hír: újraválasztják,  
 
 114
 00:11:13,960 --> 00:11:18,280
-és kezdetben mindennek nincs következménye. Úgy gondolja, hogy ez a legjobb  
+és kezdetben mindennek nincs következménye. 
+Úgy gondolja, hogy ez a legjobb  
 
 115
 00:11:18,280 --> 00:11:25,760
-dolog valaha – újraválasztják, és nincs hátrány... de valami megváltozott.  
+dolog valaha – újraválasztják, és nincs 
+hátrány... de valami megváltozott.
 
 116
 00:11:25,760 --> 00:11:29,560
-Tehát, mi történt? Fiatello megnyomta a Nagy Piros Gombot,  
+Tehát, mi történt? Fiatello megnyomta 
+a Nagy Piros Gombot,  
 
 117
 00:11:29,560 --> 00:11:33,200
-amivel pénzt nyomtatott a kormány számára, ezzel pedig leértékelte a valutát.  
+amivel pénzt nyomtatott a kormány számára, 
+ezzel pedig leértékelte a valutát.
 
 118
 00:11:33,200 --> 00:11:39,240
-Mit jelent ez? Megnövelte az éjszaka folyamán a gazdaságban lévő pénzmennyiséget,  
+Mit jelent ez? Megnövelte az éjszaka folyamán 
+a gazdaságban lévő pénzmennyiséget,  
 
 119
 00:11:39,240 --> 00:11:42,120
-de nem növelte a gazdaságban elérhető javak és szolgáltatások mennyiségét.  
+de nem növelte a gazdaságban elérhető 
+javak és szolgáltatások mennyiségét.  
 
 120
 00:11:42,120 --> 00:11:46,080
@@ -577,323 +594,402 @@ de nem növelte a gazdaságban elérhető javak és szolgáltatások mennyiség�
 
 121
 00:11:46,080 --> 00:11:51,600
-minden egyes jószágra és szolgáltatásra vetítve.  
+minden egyes jószágra és 
+szolgáltatásra vetítve.
 
 122
 00:11:51,600 --> 00:11:57,520
-Ennek három fő hatása van: az első az árjelzések torzítása, a második  
+Ennek három fő hatása van: az első 
+az árjelzések torzítása, a második  
 
 123
 00:11:57,520 --> 00:12:02,840
-a vállalkozások inputköltségeinek növekedése, a harmadik pedig az eszközök inflációja.  
+a vállalkozások költségeinek növekedése, 
+a harmadik pedig az eszközök inflációja.
 
 124
 00:12:02,840 --> 00:12:08,320
-Az első, az árjelzések torzítása. Nos, Fiatello Nagy Piros Gombjának megnyomása  
+Az első, az árjelzések torzítása. Nos, 
+Fiatello Nagy Piros Gombjának megnyomása  
 
 125
 00:12:08,320 --> 00:12:13,760
-előtt a gazdaságban minden árváltozás kizárólag a kereslet és kínálat függvénye volt,  
+előtt a gazdaságban minden árváltozás kizárólag 
+a kereslet és kínálat függvénye volt,  
 
 126
 00:12:13,760 --> 00:12:19,280
-mert ez egy szabad piac volt tökéletes pénzzel. De most,  
+mert ez egy szabad piac volt 
+tökéletes pénzzel. De most,  
 
 127
 00:12:19,280 --> 00:12:25,040
-hogy a pénz belépett a gazdaságba, ez nem mindenkinek egyenlően vagy akár arányosan  
+hogy a pénz belépett a gazdaságba, ez nem 
+mindenkinek egyenlően vagy akár arányosan  
 
 128
 00:12:25,040 --> 00:12:29,160
-oszlott el. A pénz a kormányon keresztül lépett be a gazdaságba,  
+oszlott el. A pénz a kormányon 
+keresztüllépett be a gazdaságba,  
 
 129
 00:12:29,800 --> 00:12:35,760
-a kormányhoz közvetlenül vagy közvetve kapcsolódó vállalatok  
+a kormányhoz közvetlenül vagy 
+közvetve kapcsolódó vállalatok  
 
 130
 00:12:35,760 --> 00:12:40,800
-és emberek számláira. Ezért Fiatello azt látja, hogy az árak bizonyos gazdasági szektorokban  
+és emberek számláira. Ezért Fiatello azt látja, 
+hogy az árak bizonyos gazdasági szektorokban  
 
 131
 00:12:40,800 --> 00:12:47,080
-emelkedni kezdenek. Ez azt az üzenetet közvetíti a gazdaság többi résztvevője számára,  
+emelkedni kezdenek. Ez azt az üzenetet közvetíti 
+a gazdaság többi résztvevője számára,  
 
 132
 00:12:47,080 --> 00:12:54,160
-hogy ezekben a szektorokban kínálati és keresleti egyensúlyhiány van. Ez a vállalkozók  
+hogy ezekben a szektorokban kínálati és 
+keresleti egyensúlyhiány van. Ez a vállalkozók  
 
 133
 00:12:54,160 --> 00:12:59,120
-által a piacon végrehajtott tőkeallokáció torzulásához vezet, amit a pénz nyomtatása okozott. De nem  
+által a piacon végrehajtott tőkeallokáció torzulásához 
+vezet, amit a pénz nyomtatása okozott. De nem  
 
 134
 00:12:59,720 --> 00:13:03,440
-csak a tőke, hanem az emberi erőforrások, okos, aktív emberek is közelebb kerülnek a kormányhoz,  
+csak a tőke, hanem az emberi erőforrások, okos, 
+aktív emberek is közelebb kerülnek a kormányhoz,  
 
 135
 00:13:03,440 --> 00:13:09,000
-ahelyett, hogy a gazdaság többi részét szolgálnák.  
+ahelyett, hogy a gazdaság többi részét szolgálnák. 
 
 136
 00:13:09,000 --> 00:13:14,800
-A második hatás a vállalkozások inputköltségeinek növekedése. Fiatello országának  
+A második hatás a vállalkozások inputköltségeinek 
+növekedése. Fiatello országának  
 
 137
 00:13:14,800 --> 00:13:20,240
-minden vállalkozása legalább egy embert és néhány nyersanyagot – például energiát vagy más  
+minden vállalkozása legalább egy embert és 
+néhány nyersanyagot – például energiát vagy más  
 
 138
 00:13:20,240 --> 00:13:26,840
-nyersanyagokat – használ. Mivel ezek költségei emelkednek, ezeknek a vállalkozásoknak  
+nyersanyagokat – használ. Mivel ezek költségei 
+emelkednek, ezeknek a vállalkozásoknak  
 
 139
 00:13:26,840 --> 00:13:31,760
-meg kell próbálniuk valamit változtatni a termékükön, hogy fenntartsák az üzletmenetükhöz  
+meg kell próbálniuk valamit változtatni a 
+termékükön, hogy fenntartsák az üzletmenetükhöz  
 
 140
 00:13:31,760 --> 00:13:37,040
-szükséges kis haszonkulcsot. Az első és legnyilvánvalóbb megoldás az,  
+szükséges kis haszonkulcsot. Az első és 
+legnyilvánvalóbb megoldás az,  
 
 141
 00:13:37,040 --> 00:13:42,800
-hogy egyszerűen áthárítják az áremelkedést a vásárlókra. A második, hogy az árat és a  
+hogy egyszerűen áthárítják az áremelkedést a 
+vásárlókra. A második, hogy az árat és a  
 
 142
 00:13:42,800 --> 00:13:48,760
-minőséget változatlanul hagyják, de csökkentik a termék méretét, például 100  
+minőséget változatlanul hagyják, de 
+csökkentik a termék méretét, például 100  
 
 143
 00:13:48,760 --> 00:13:56,600
-gramm helyett 90 gramm lesz ugyanazon az áron. A harmadik lehetőség pedig az inputköltségek csökkentése.  
+gramm helyett 90 gramm lesz ugyanazon az áron. 
+A harmadik lehetőség pedig az költségek csökkentése.
 
 144
 00:13:56,600 --> 00:14:01,480
-Innen származik a fogyasztói infláció. Ez az egyetlen forrása a  
+Innen származik a fogyasztói infláció. 
+Ez az egyetlen oka a  
 
 145
 00:14:01,480 --> 00:14:07,760
-fogyasztói inflációnak – a pénz nyomtatása, amely a vállalkozásokat ezekre a változtatásokra kényszeríti.  
+fogyasztói inflációnak – a pénz nyomtatása, amely a 
+vállalkozásokat ezekre a változtatásokra kényszeríti.
 
 146
 00:14:07,760 --> 00:14:14,000
-Ha egy vállalkozás közvetlenül áthárítja az áremelkedést, vagy ha csökkenti a termék méretét, és a  
+Ha egy vállalkozás közvetlenül áthárítja az áremelkedést, 
+vagy ha csökkenti a termék méretét, és a  
 
 147
 00:14:14,000 --> 00:14:18,833
-vásárlóknak most többet kell vásárolniuk belőle, hogy kielégítsék igényeiket (például 100 gramm helyett 90  
+vásárlóknak most többet kell vásárolniuk belőle, 
+hogy kielégítsék igényeiket (például 100 gramm helyett 90  
 
 148
 00:14:18,833 --> 00:14:23,720
-grammot kapnak), mindkét eset csökkenti az elérhetőséget. Ez azt jelenti, hogy a lakosság szegényedik. Kevesebb  
+grammot kapnak), mindkét eset csökkenti az elérhetőséget. 
+Ez azt jelenti, hogy a lakosság szegényedik. Kevesebb  
 
 149
 00:14:23,720 --> 00:14:29,040
-elkölthető jövedelmük lesz, még ha ugyanazokat a dolgokat vásárolják is, mint korábban.  
+elkölthető jövedelmük lesz, még ha ugyanazokat 
+a dolgokat vásárolják is, mint korábban.
 
 150
 00:14:30,720 --> 00:14:35,720
-Ha ehelyett a vállalkozás az árat és a méretet változatlanul hagyja,  
+Ha ehelyett a vállalkozás az árat és 
+a méretet változatlanul hagyja,  
 
 151
 00:14:35,720 --> 00:14:40,600
-de csökkenti a költségeket, a legnyilvánvalóbb lépés az, hogy embereket bocsát el, ami  
+de csökkenti a költségeket, a legnyilvánvalóbb 
+lépés az, hogy embereket bocsát el, ami  
 
 152
 00:14:40,600 --> 00:14:46,680
-munkanélküliséghez vezet. Most kevesebb embernek van munkája, ami csökkenti a lakosság általános  
+munkanélküliséghez vezet. Most kevesebb embernek van 
+munkája, ami csökkenti a lakosság általános  
 
 153
 00:14:46,680 --> 00:14:52,080
-vásárlóerejét Fiatello világában. De nem csak ez: a kormánynak egy második  
+vásárlóerejét Fiatello világában. 
+De nem csak ez: a kormánynak egy második  
 
 154
 00:14:52,080 --> 00:14:57,080
-problémát is meg kell oldania – hogyan támogassa azokat az embereket, akik nemrég váltak munkanélkülivé.  
+problémát is meg kell oldania – hogyan támogassa 
+azokat az embereket, akik nemrég váltak munkanélkülivé.
 
 155
 00:14:57,080 --> 00:15:03,880
-Az egyik legártalmasabb módja az inputköltségek csökkentésének a minőség csökkentése.  
+Az egyik legártalmasabb módja az költségek 
+csökkentésének a minőség csökkentése.
 
 156
 00:15:03,880 --> 00:15:08,800
-Így Fiatello azt látja, hogy a lakosság körében nő az elhízás, mert  
+Így Fiatello azt látja, hogy a lakosság 
+körében nő az elhízás, mert  
 
 157
 00:15:08,800 --> 00:15:13,840
-az élelmiszerek, amelyek korábban frissek voltak és magas minőségű alapanyagokat tartalmaztak, egyre alacsonyabb  
+az élelmiszerek, amelyek korábban frissek voltak és magas 
+minőségű alapanyagokat tartalmaztak, egyre alacsonyabb  
 
 158
 00:15:13,840 --> 00:15:18,800
-minőségű alapanyagokra és iparilag feldolgozott anyagokra cserélődnek. Ez elhízáshoz és számos  
+minőségű alapanyagokra és iparilag feldolgozott 
+anyagokra cserélődnek. Ez elhízáshoz és számos  
 
 159
 00:15:18,800 --> 00:15:24,320
-másodlagos egészségügyi problémához vezet, ami egészségügyi válságot okoz, és a kormánynak  
+másodlagos egészségügyi problémához vezet, 
+ami egészségügyi válságot okoz, és a kormánynak  
 
 160
 00:15:24,320 --> 00:15:28,960
-most ki kell találnia, hogyan támogassa azokat az embereket, akik egészségtelenné váltak.  
+most ki kell találnia, hogyan támogassa azokat 
+az embereket, akiknek lerolmott az egészsége.
 
 161
 00:15:30,680 --> 00:15:36,320
-A harmadik hatás az eszközök inflációja. Mióta Fiatello megnyomta a Nagy Piros Gombot,  
+A harmadik hatás az eszközök inflációja. 
+Mióta Fiatello megnyomta a Nagy Piros Gombot,  
 
 162
 00:15:36,320 --> 00:15:40,960
-az eszközárak emelkednek. A részvénypiac egyre magasabbra szárnyal,  
+az eszközárak emelkednek. A részvénypiac 
+egyre magasabbra szárnyal,  
 
 163
 00:15:40,960 --> 00:15:47,200
-az ingatlanárak pedig egyre drágábbak. Fiatello azt gondolja: „Valami gazdasági zseni vagyok.”  
+az ingatlanárak pedig egyre drágábbak. Fiatello 
+azt gondolja: „Valami gazdasági zseni vagyok.”  
 
 164
 00:15:47,200 --> 00:15:53,280
-De ezek az árak azért emelkednek, mert több Fiatello került a rendszerbe, így bárki, aki tudja, hogy  
+De ezek az árak azért emelkednek, mert több Fiatello 
+került a rendszerbe, így bárki, aki tudja, hogy  
 
 165
 00:15:53,280 --> 00:15:58,160
-több Fiatello van a rendszerben, természetesen nem adná el az eszközeit ugyanazon az áron, mint  
+több Fiatello van a rendszerben, természetesen 
+nem adná el az eszközeit ugyanazon az áron, mint  
 
 166
 00:15:58,160 --> 00:16:02,480
-tegnap. Figyelembe veszik, hogy több Fiatello van a rendszerben, és ez hajtja  
+tegnap. Figyelembe veszik, hogy több 
+Fiatello van a rendszerben, és ez hajtja  
 
 167
 00:16:02,480 --> 00:16:08,800
-fel az árakat. De ez az eszközár-emelkedés jó azoknak, akik birtokolják  
+fel az árakat. De ez az eszközár-emelkedés 
+jó azoknak, akik birtokolják  
 
 168
 00:16:08,800 --> 00:16:14,720
-az eszközöket, viszont nem jó azoknak, akik nem. Így egy vagyoni egyenlőtlenség kezd kialakulni a  
+az eszközöket, viszont nem jó azoknak, akik nem. 
+Így egy vagyoni egyenlőtlenség kezd kialakulni a  
 
 169
 00:16:14,720 --> 00:16:19,960
-gazdaságban. És nemcsak ez, de mivel az ingatlanárak most drágábbak, a bérleti díjak is emelkednek.  
+gazdaságban. És nemcsak ez, de mivel az ingatlanárak 
+most drágábbak, a bérleti díjak is emelkednek.  
 
 170
 00:16:19,960 --> 00:16:24,560
-Így Fiatello egyre több hajléktalant lát, és ez a növekvő hajléktalanság  
+Így Fiatello egyre több hajléktalant lát, 
+és ez a növekvő hajléktalanság  
 
 171
 00:16:24,560 --> 00:16:30,360
-– vajon mi történik? – még több kormányzati beavatkozást igényel a probléma kezelésére. Az eszközárak szárnyalnak,  
+– vajon mi történik? – még több kormányzati beavatkozást 
+igényel a probléma kezelésére. Az eszközárak szárnyalnak,  
 
 172
 00:16:30,360 --> 00:16:35,280
-a tőzsde lángol, és a lakosság körében az uralkodó nézet az:  
+a tőzsde lángol, és a lakosság körében 
+az uralkodó nézet az:  
 
 173
 00:16:35,280 --> 00:16:40,400
-"Miért ne fektetnék be? Miért tartanám meg a pénzemet? A tőzsdéznem kell,  
+"Miért ne fektetnék be? Miért tartanám 
+meg a pénzemet? Tőzsdéznem kell,  
 
 174
 00:16:40,400 --> 00:16:43,960
-befektetnem kell, vennem kell egy második házat kiadásra, spekulatív eszközöket kell vásárolnom,  
+befektetnem kell, vennem kell egy második házat bérbeadásra, 
+spekulatív eszközöket kell vásárolnom,  
 
 175
 00:16:43,960 --> 00:16:49,920
-mert ezek soha nem esnek, csak emelkednek. Ha nem fektetek be, bolond vagyok." Mivel  
+mert ezek soha nem esnek, csak emelkednek. 
+Ha nem fektetek be, bolond vagyok." Mivel  
 
 176
 00:16:49,920 --> 00:16:54,320
-az eszközárak emelkednek, a bankok egyre nagyobb hitellehetőségeket kínálnak az embereknek. Egyre nagyobb  
+az eszközárak emelkednek, a bankok egyre nagyobb 
+hitellehetőségeket kínálnak az embereknek. Egyre nagyobb  
 
 177
 00:16:54,320 --> 00:17:00,880
-jelzáloghiteleket adnak a magánszemélyeknek, kölcsönöket a vállalatoknak, de mivel az ingatlanárak már emelkedtek,  
+jelzáloghiteleket adnak a magánszemélyeknek, kölcsönöket a 
+vállalatoknak, de mivel az ingatlanárak már emelkedtek,  
 
 178
 00:17:00,880 --> 00:17:06,360
-és mindenki egyre több adósságot halmoz fel, miközben a családok küzdenek a mindennapi megélhetés  
+és mindenki egyre több adósságot halmoz fel, miközben 
+a családok küzdenek a mindennapi megélhetés  
 
 179
 00:17:06,360 --> 00:17:12,960
-megfizethetőségével, egyre nehezebb házat vásárolni. Korábban a családok egy fő  
+megfizethetőségével, egyre nehezebb házat vásárolni. 
+Korábban a családok, egy fő  
 
 180
 00:17:12,960 --> 00:17:19,080
-keresetéből is megengedhették maguknak, hogy jelzáloghitellel házat vásároljanak, ma már nem tudják.  
+keresetéből is megengedhették maguknak, hogy 
+jelzáloghitellel házat vásároljanak, ma már nem tudják.
 
 181
 00:17:19,080 --> 00:17:25,800
-Most mindkét szülőnek dolgoznia kell. Mindkét szülőnek dolgoznia kell ahhoz, hogy megengedhessék maguknak a jelzáloghitelt és a megélhetést,  
+Most mindkét szülőnek dolgoznia kell, ahhoz, hogy megengedhessék 
+maguknak a jelzáloghitelt és a megélhetést,  
 
 182
 00:17:25,800 --> 00:17:30,320
-és amikor ez történik, az emberek kevesebb időt töltenek együtt. Elkezdődik a nukleáris  
+és amikor ez történik, az emberek kevesebb 
+időt töltenek együtt. Elkezdődik a   
 
 183
 00:17:30,320 --> 00:17:35,080
-család bomlása. Kevesebb időt töltenek a gyerekeikkel, és kevesebb gyereket tudnak vállalni.  
+család széthullása. Kevesebb időt töltenek a gyerekeikkel, 
+és kevesebb gyereket tudnak vállalni.  
 
 184
 00:17:35,080 --> 00:17:41,280
-Mivel a születési ráta csökken, Fiatello változást kezd észlelni a népesség  
+Mivel a születési ráta csökken, Fiatello 
+változást kezd észlelni a népesség  
 
 185
 00:17:41,280 --> 00:17:46,760
-demográfiájában. Kevesebb gyerek születik, miközben az  
+demográfiájában. Kevesebb gyerek 
+születik, miközben az  
 
 186
 00:17:46,760 --> 00:17:52,040
-idősebb generációk tovább élnek, és Fiatello rájön, hogy az idősebb generációknak tett ígéreteit  
+idősebb generáció tovább él, és Fiatello rájön, 
+hogy az idősebb generációknak tett ígéreteit  
 
 187
 00:17:52,040 --> 00:17:56,880
-– például a bizonyos életkorban való nyugdíjazást, a jó életminőséget  
+– például a bizonyos életkorban való 
+nyugdíjazást, a jó életminőséget  
 
 188
 00:17:56,880 --> 00:18:02,240
-vagy a meghatározott nyugdíjjövedelmet – nem tudja teljesíteni.  
+vagy a meghatározott nyugdíjjövedelmet 
+– nem tudja teljesíteni.
 
 189
 00:18:02,240 --> 00:18:07,160
-Azok számára, akik nem elég szerencsések ahhoz, hogy házat vásároljanak, és bérlésre kényszerülnek,  
+Azok számára, akik nem elég szerencsések ahhoz, 
+hogy házat vásároljanak, és így albérletbe kényszerülnek,  
 
 190
 00:18:07,160 --> 00:18:12,320
-míg korábban gondolhattak arra, hogy 3-5 évig ugyanabban a helyen béreljenek, most,  
+míg korábban gondolhattak arra, hogy 3-5 
+évig ugyanazt a lakást béreljék, most,  
 
 191
 00:18:12,320 --> 00:18:16,560
-mivel a bérleti díjak évente túl sokat emelkednek, inkább csak egy-két évre  
+hogy a bérleti díjak évente jelentősen emelkednek, 
+inkább csak egy-két évre  
 
 192
 00:18:16,560 --> 00:18:21,440
-terveznek. Kevesebbet terveznek a jövőre, talán elhalasztják a házasságot vagy a  
+terveznek. Kevesebbet terveznek a jövőre, 
+talán elhalasztják a házasságot vagy a  
 
 193
 00:18:21,440 --> 00:18:27,960
-gyerekvállalást. Elkezdik előnyben részesíteni a jelent a jövő rovására.   
+gyerekvállalást. Elkezdik előnyben 
+részesíteni a jelent, a jövő rovására.  
 
 194
 00:18:27,960 --> 00:18:31,760
-Az emberek látják, hogy a Fiatelloik megtakarítása nem visz őket sehová, mert az eszközárak  
+Az emberek látják, hogy a Fiatelloik megtakarítása 
+nem visz őket sehová, mert az eszközárak  
 
 195
 00:18:31,760 --> 00:18:35,680
-túl gyorsan emelkednek – soha nem lesznek képesek házat venni. Ha soha nem tudsz házat vásárolni,  
+túl gyorsan emelkednek – soha nem lesznek képesek 
+házat venni. Ha soha nem tudsz házat vásárolni,  
 
 196
 00:18:35,680 --> 00:18:42,760
-akkor inkább "éld a legjobb életedet", menj nyaralni, költs többet, élvezd az életet.  
+akkor inkább "éld a legjobb életedet", menj 
+nyaralni, költs többet, élvezd az életet.
 
 197
 00:18:42,760 --> 00:18:47,200
-Azok számára viszont, akik nem ilyen szerencsések, akik számára minden nap küzdelem az,  
+Azok számára viszont, akik nem ilyen szerencsések, 
+akik számára minden nap küzdelem az,  
 
 198
 00:18:47,200 --> 00:18:52,160
-hogy ételt tegyenek az asztalra, hogy lakhatást biztosítsanak maguknak és családjuknak –  
+hogy ételt tegyenek az asztalra, hogy lakhatást 
+biztosítsanak maguknak és családjuknak –  
 
 199
 00:18:52,160 --> 00:19:00,200
-ők a lejtőn vannak. Minden nap nehezebb, ami a függőségek növekedéséhez vezet.  
+ők a lejtőn vannak. Minden nap nehezebb, 
+ami a függőségek növekedéséhez vezet.  
 
 200
 00:19:00,200 --> 00:19:04,000
-A függőség különböző formái, köztük az opioidok használata is egyre nő Fiatello szigetén, ami  
+A függőség különböző formái, köztük az opioidok 
+használata is egyre nő Fiatello szigetén, ami  
 
 201
 00:19:04,000 --> 00:19:09,600
