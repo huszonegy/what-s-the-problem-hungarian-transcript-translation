@@ -1,29 +1,58 @@
-De most a menekülési szelep nyitva van. Az emberek rájönnek, hogy nem tudnak Fiatellókban megtakarítani, ezért elkezdik eladni a Fiatellókat, hogy Satoshikat vásároljanak, így a Fiatellók értéke tovább csökken, ami további költségvetési és pénzügyi válságokat vált ki, amelyeket Fiatellónak kell kezelnie... és az egyetlen választás ismét a Nagy Piros Gomb megnyomása!  
-
-De ezúttal a pénznyomtatás nem elég, mert az érték kiszivárog Fiatello szigetoldaláról. Fiatellónak meg kell változtatnia a tökéletes pénz egy másik tulajdonságát: el kell távolítania annak cenzúra-ellenálló természetét. Korábban a Fiatello lakosság maga birtokolhatta a pénzt, de most Fiatello azt mondja, hogy többé nem birtokolhatják maguk. A pénzt a bankokban kell elhelyezniük.  
-
-A bankok fogják kezelni mindenki pénzét. A lakosság most úgy érzi, bűnös, amíg ártatlanságát nem bizonyítja minden tranzakció esetén – a bankok minden tranzakciót ellenőriznek, hogy „megvédjenek téged”, ami azt jelenti, hogy amikor az emberek bizonyos dolgokat, például Satoshikat próbálnak vásárolni, a bankok most azt mondják: „Nem… ez azért van, mert…” És Fiatello korlátozza a tőke áramlását Fiatello szigetoldaláról. Talán egyenesen tőkeellenőrzést vezet be: „Mostantól egyáltalán nem vásárolhatsz Satoshikat.”  
-
-De az emberek mindig találnak utat, és egyre többen ébrednek rá, mi történik, és a ciklus folytatódik. A lényeg, hogy a vagyon és az emberek az érintetlen pénzhez menekülnek. Most Fiatello valóban pánikba esik.  
-
-Tehát hol ér véget Fiatello számára? Nos, ha szerencséje van, a tartós inflációval, amely lehetővé teszi a kormány számára, hogy inflációval leépítse az adósságait, és lassan elszívja a közvélemény vagyonát. Ez akár hiperinfláció határán is mozoghat. „Szerencséje van”, mert ezt nagyon nehéz megvalósítani és közben fenntartani a társadalmi kohéziót, és valószínűleg valami rosszul sül el.  
-
-Biztosan bekövetkezik az eszközök elkobzása. Most, hogy az összes pénzt a bankokban tartják, egy nap Fiatello azt fogja kijelenteni, hogy „mindannyian együtt vagyunk ebben”, és a bankok átadják a tőke egy részét a kormánynak. Pontosan úgy, mint Cipruson 2013-ban – ha több mint 100 000 eurót tartottál a bankban, egy éjszaka alatt annak 45%-a a kormányhoz került. A közvélemény gyakorlatilag bele lett vonva abba, hogy kimentsék a bankokat és a kormányt a saját rossz gazdálkodásukból.  
-
-Ez az Egyesült Államokban is megtörtént 1933-ban. Illegálissá tették az egyéni aranytulajdonlást, és ez majdnem 40 évig tartott. Ha több mint 100 dollárnyi aranyat tartottál és elkaptak: 10 000 dolláros bírság vagy 10 év börtön járt érte, amikor 10 000 dollár *hatalmas* összeg volt.  
-
-Fiatello politikai szélsőségek növekedését látja mindkét oldalon. A kormány soha nem magyarázza el a lakosságnak, honnan erednek ezek a problémák. Nem mondják el nekik, hogy a Nagy Piros Gomb által végzett pénznyomtatás okozza őket. Ellenőrzik a médiát. A kormány védi önmagát. Nem mondják el az igazat a lakosságnak. Nem segítenek nekik összekapcsolni a pontokat. Nem magyarázzák el a Nagy Piros Gomb és a problémák közötti kapcsolatot. Helyette a „kapzsi üzletembereket”, a „milliárdosokat”, a „külföldi diktátorokat” vagy valami mást hibáztatnak.  
-
-Aztán mi történik? Az emberek több segítséget és támogatást kérnek a kormánytól ezeknek a problémáknak a kezelésére, így az egyetlen megoldás a kormány fokozottabb bevonása mindenbe. Ezen az úton minden probléma megoldása mindig *több kormányzati beavatkozás* volt, így az emberek látják ezeket a problémákat, és több kormányzati beavatkozásra szavaznak, hogy megoldják őket… vagy valami még rosszabbra.  
-
-De minden forgatókönyvben az emberek Satoshikat akarnak tartani, nem Fiatellókat.  
-
-Ha visszatérünk a tökéletes pénz hét tulajdonságának listájához – Fiatello csak kettőt változtatott meg közülük. Az öt másik pontosan ugyanaz maradt, és nézd meg, hova jutott.  
-
-És most a leleplezés (és lehet, hogy néhányan már előttem jártok itt): az amerikai dollár csupán egy rossz változata a Fiatellónak. Az amerikai dollár ugyanazon a két kulcskérdésen romlott, mint a Fiatellók, de az öt másikban is lényegesen rosszabb.  
-
-Hordozhatóság szempontjából könnyű vinni, könnyű fizetni vele, de nem nagyszerű a kereskedők számára. Azonnal fizetsz, de a kereskedő csak napokkal később kapja meg a pénzt, ha nem volt csalás vagy visszaterhelés.  
-
-Osztható, de csak egy bizonyos pontig, és megszünteti a mikrotranzakciók lehetőségét, amelyek potenciálisan teljesen új gazdasági modelleket nyithatnának meg.  
-
-Tartós digitális formában, de van készpénzes összetevője, és ez a készpénzes összetevő folyamatosan gyengül. A bankjegyek dizájnját 15-20 évente újranyomtatják, így az egyén nem tud a bankrendszeren kívül megtakarítani. Ha a bankjegyeket az ágyad alá vagy a padlódeszkák alá rejted, és 25 év múlva előveszed, értéktelenek lesznek. Ezek a típusú bankjegyek kikerülnek a forgalomból, így 15-20 évente el kell vinned a bankba, be kell cserélned őket új bankjegyekre. Rendszeresen újraközpontosítanak mindent, szándékosan.
+De most a menekülési szelep nyitva van. Az emberek rájönnek, hogy nem tudnak Fiatellókban megtakarítani, ezért
+elkezdik eladni a Fiatellókat, hogy Satoshikat vásároljanak, így a Fiatellók értéke tovább csökken,
+ami további költségvetési és pénzügyi válságokat vált ki, amelyeket Fiatellónak kell kezelnie... és az
+egyetlen választás ismét a Nagy Piros Gomb megnyomása! De ezúttal a pénznyomtatás nem elég,
+mert az érték kiszivárog Fiatello szigetoldaláról. Fiatellónak meg kell változtatnia a tökéletes pénz
+egy másik tulajdonságát: el kell távolítania annak cenzúra-ellenálló természetét.
+Korábban a Fiatello lakosság maga birtokolhatta a pénzt,
+de most Fiatello azt mondja, hogy többé nem birtokolhatják maguk. A pénzt a bankokban kell elhelyezniük.
+A bankok fogják kezelni mindenki pénzét. A lakosság most úgy érzi, bűnös,
+amíg ártatlanságát nem bizonyítja minden tranzakció esetén – a bankok minden tranzakciót ellenőriznek, hogy „megvédjenek
+téged”, ami azt jelenti, hogy amikor az emberek bizonyos dolgokat, például Satoshikat próbálnak
+vásárolni, a bankok most azt mondják: „Nem… ez azért van, mert…”
+És Fiatello korlátozza a tőke áramlását Fiatello szigetoldaláról. Talán egyenesen
+tőkeellenőrzést vezet be: „Mostantól egyáltalán nem vásárolhatsz Satoshikat.” De
+az emberek mindig találnak utat, és egyre többen ébrednek rá, mi történik, és a ciklus
+folytatódik. A lényeg, hogy a vagyon és az emberek az érintetlen pénzhez menekülnek.
+Most Fiatello valóban pánikba esik.  
+Tehát hol ér véget Fiatello számára? Nos, ha szerencséje van, a tartós inflációval, amely lehetővé
+teszi a kormány számára, hogy inflációval leépítse az adósságait, és lassan elszívja a közvélemény vagyonát.
+Ez akár hiperinfláció határán is mozoghat. „Szerencséje van”, mert ezt nagyon nehéz
+megvalósítani és közben fenntartani a társadalmi kohéziót, és valószínűleg valami rosszul sül el.  
+Biztosan bekövetkezik az eszközök elkobzása. Most, hogy az összes pénzt a bankokban tartják, egy
+nap Fiatello azt fogja kijelenteni, hogy „mindannyian együtt vagyunk ebben”, és a bankok átadják a
+tőke egy részét a kormánynak. Pontosan úgy, mint Cipruson 2013-ban – ha több mint
+100 000 eurót tartottál a bankban, egy éjszaka alatt annak 45%-a a kormányhoz került. A közvélemény
+gyakorlatilag bele lett vonva abba, hogy kimentsék a bankokat és a kormányt a saját rossz gazdálkodásukból.
+Ez az Egyesült Államokban is megtörtént 1933-ban. Illegálissá tették az egyéni aranytulajdonlást,
+és ez majdnem 40 évig tartott. Ha több mint 100 dollárnyi aranyat tartottál és elkaptak:
+10 000 dolláros bírság vagy 10 év börtön járt érte, amikor 10 000 dollár *hatalmas* összeg volt.
+Fiatello politikai szélsőségek növekedését látja mindkét oldalon. A kormány soha
+nem magyarázza el a lakosságnak, honnan erednek ezek a problémák. Nem mondják el
+nekik, hogy a Nagy Piros Gomb által végzett pénznyomtatás okozza őket. Ellenőrzik
+a médiát. A kormány védi önmagát. Nem mondják el az igazat a lakosságnak.
+Nem segítenek nekik összekapcsolni a pontokat. Nem magyarázzák el
+a Nagy Piros Gomb és a problémák közötti kapcsolatot. Helyette a „kapzsi üzletembereket”, a
+„milliárdosokat”, a „külföldi diktátorokat” vagy valami mást hibáztatnak. Aztán mi történik?
+Az emberek több segítséget és támogatást kérnek a kormánytól ezeknek a problémáknak a kezelésére, így
+az egyetlen megoldás a kormány fokozottabb bevonása mindenbe. Ezen az úton
+minden probléma megoldása mindig *több kormányzati beavatkozás* volt, így az emberek látják ezeket
+a problémákat, és több kormányzati beavatkozásra szavaznak, hogy megoldják őket… vagy valami még rosszabbra.
+De minden forgatókönyvben az emberek Satoshikat akarnak tartani, nem Fiatellókat.
+Ha visszatérünk a tökéletes pénz hét tulajdonságának listájához – Fiatello
+csak kettőt változtatott meg közülük. Az öt másik pontosan ugyanaz maradt, és nézd meg, hova jutott.
+És most a leleplezés (és lehet, hogy néhányan már előttem jártok itt):
+az amerikai dollár csupán egy rossz változata a Fiatellónak.
+Az amerikai dollár ugyanazon a két kulcskérdésen romlott, mint
+a Fiatellók, de az öt másikban is lényegesen rosszabb.
+Hordozhatóság szempontjából könnyű vinni,
+könnyű fizetni vele, de nem nagyszerű a kereskedők számára. Azonnal fizetsz, de a kereskedő csak
+napokkal később kapja meg a pénzt, ha nem volt csalás vagy visszaterhelés.
+Osztható, de csak egy bizonyos pontig, és megszünteti a mikrotranzakciók lehetőségét,
+amelyek potenciálisan teljesen új gazdasági modelleket nyithatnának meg.
+Tartós digitális formában, de van készpénzes összetevője, és ez a készpénzes összetevő folyamatosan
+gyengül. A bankjegyek dizájnját 15-20 évente újranyomtatják, így
+az egyén nem tud a bankrendszeren kívül megtakarítani. Ha a bankjegyeket az ágyad alá
+vagy a padlódeszkák alá rejted, és 25 év múlva előveszed, értéktelenek lesznek. Ezek a típusú
+bankjegyek kikerülnek a forgalomból, így 15-20 évente el kell vinned a bankba, be kell cserélned
+őket új bankjegyekre. Rendszeresen újraközpontosítanak mindent, szándékosan.

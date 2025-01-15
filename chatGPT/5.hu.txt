@@ -1,21 +1,57 @@
-Mindez gyakorlatilag most már *haveri korporatizmus*. Nagyon nehéz megmondani, hol ér véget a kormány, és hol kezdődnek ezek az iparágak. A kormány sikere szorosan összefonódik az iparágak sikerével. Ezek az iparágak elkezdik kérni a kormányt, hogy szabályozza őket: „Szabályoznod kell minket, hogy megvédd a közvéleményt.” De ez a szabályozás valójában csak megnehezíti a versenyt. Az egy-két-három nagyvállalat minden területen nagyon közel kerül a kormányhoz. Ők biztosítják az embereket a szabályozó testületekhez, és amikor a szabályozók hivatali idejük végére érnek, visszamennek ezekhez a vállalatokhoz dolgozni. Ez megakadályozza, hogy kisebb cégek belépjenek és versenyezzenek velük, hogy jobb feltételekkel és magasabb minőségű termékekkel lássák el a kormányt. Így a minőség romlani kezd, az árak pedig emelkednek, ami természetesen nagyszerű hír ezeknek a cégeknek, mert a haszonkulcsuk növekszik.
-
-Ezután a média is elfoglalásra kerül. A kormány ingatag helyzetben van, hogy fenntartsa a társadalmi stabilitást. Most már ezeknek az iparágaknak a védelmét helyezi előtérbe a lakosság helyett. És mivel meg kell tartania a társadalmi egyensúlyt, nem engedheti meg a szólásszabadságot, az eltérő véleményeket, az alternatív nézeteket vagy bármit, ami bármilyen módon aláásná a kormány legitimitását. Nemcsak ez, de a legnagyobb hirdetők a médiumok számára azok a cégek, amelyek kapcsolatban állnak a kormánnyal, így a médiumok egyre kevésbé akarják feldühíteni a hirdetőiket.
-
-Amikor a média elfoglalásra kerül, és a hadiipari komplexum külföldi konfliktusokat szít, létrejönnek az *örök háborúk*. És magukat a háborúkat aktívan támogatja a Fiatello lakosság, mert a médiában csak azt látják: „Ezt meg kell tennünk, mert ez a helyes dolog.”
-
-Az örök háborúk, a bankrendszer megmentése és a túlzott eladósodottság a következő válsághoz vezet, de ezúttal sokkal nagyobb mértékben, és Fiatello-nak egyetlen választása van: újra megnyomni a Nagy Piros Gombot. De ezúttal más a helyzet. Egy hatalmas bizalomvesztés következik be. Minden egyes alkalommal, amikor megnyomja a gombot, egyre több ember érti meg, hogy mi történik, és ez így megy körbe-körbe, amíg valami meg nem szakad.
-
-Most Fiatello kezdi komolyan aggódni. Mi történik a pénzzel? Nos, ahelyett, hogy évente 3%-kal növekedne a vásárlóereje, most évente 7%-ot veszít, mert 10%-kal több pénzt nyomtat. Ráadásul aláássa a gazdaság termelékenységét az árjelzések torzításával.
-
-Mi történik a Fiatello sziget lakosságával? Azok, akik alacsony fix bérből élnek, minimális jövedelmi biztonsággal és nincs vagyonuk – nem tudnak nyerni. Évről évre egyre szegényebbé válnak. A közepes keresetűek, akik fix fizetéssel és vegyes jövedelmi biztonsággal rendelkeznek – nem ők az elsők, akiket elbocsátanak –, gyakran van otthonuk, de azt soha nem tudják eladni, hogy nyereséget realizáljanak, mert valahol élniük kell. Ha eladnak egy házat, újat kell venniük. Lehet, hogy vannak befektetéseik, de ők válnak az új szegényekké.
-
-Bizonyára a gazdagok jól járnak, nem? Jövedelmük nagy része eszközök hozamaiból, működő vállalkozásokból vagy befektetésekből származik. Jövedelmi biztonságuk magas, mert nem lehet őket kirúgni, de számukra ez ezer apró vágással történő halál. A vagyonuk számai folyamatosan növekednek, de úgy érzik, hogy szegényebbé válnak. Az élet egyre nehezebb, mert a pénzkeresésük üteme, az eszközeik hozama alacsonyabb, mint a Fiatello által nyomtatott pénz üteme, így lassan a vagyonukat elszívják a politikailag kapcsolt szereplők. Azok, akik kormányzati támogatásban részesülnek, és teljesen védett jövedelmi biztonságuk van, paradox módon jövedelmük növekszik, és még értékesebbé válik, ahogy a társadalom tovább hanyatlik, mert a kormánynak egyre több beavatkozásra van szüksége.
-
-Ezen a ponton ez már ipari szintű lopás a társadalom minden tagjától. De most már annyi idő telt el, hogy a sziget közepén lévő fal repedezni kezd, és úgy repedezik, hogy mind az emberek, mind a pénz elkezdhet áramolni az egyik oldalról a másikra.
-
-Az egyik oldalon ott vannak a Satoshik, amelyek vásárlóereje évente 3%-kal növekszik, a másik oldalon a Fiatellók, amelyek évente 7%-kal veszítenek vásárlóerejükből. Mi történik és miért?
-
-Amit Fiatello elkezd látni, az az, hogy a pénz és az emberek elkezdenek távozni, mert nem bíznak abban, hogy Fiatellókkal meg tudnak takarítani; Satoshikra vágynak.
-
-Tehát ez az összegzés: Fiatello szabványon a pénzed ellopja tőled az értéket, míg Satoshi szabványon a világ egésze 24/7 azon dolgozik, hogy növelje a vásárlóerődet.
+Mindez gyakorlatilag most már *haveri korporatizmus*. Nagyon nehéz megmondani, hol ér véget
+a kormány, és hol kezdődnek ezek az iparágak. A kormány sikere szorosan összefonódik
+az iparágak sikerével. Ezek az iparágak elkezdik kérni a kormányt,
+hogy szabályozza őket: „Szabályoznod kell minket, hogy megvédd a közvéleményt.” De ez a szabályozás
+valójában csak megnehezíti a versenyt. Az egy-két-három nagyvállalat minden területen
+nagyon közel kerül a kormányhoz. Ők biztosítják az embereket a szabályozó testületekhez,
+és amikor a szabályozók hivatali idejük végére érnek, visszamennek ezekhez a vállalatokhoz dolgozni. Ez
+megakadályozza, hogy kisebb cégek belépjenek és versenyezzenek velük, hogy jobb feltételekkel és magasabb
+minőségű termékekkel lássák el a kormányt. Így a minőség romlani kezd, az árak pedig emelkednek,
+ami természetesen nagyszerű hír ezeknek a cégeknek, mert a haszonkulcsuk növekszik.
+Ezután a média is elfoglalásra kerül. A kormány ingatag helyzetben van, hogy fenntartsa a társadalmi
+stabilitást. Most már ezeknek az iparágaknak a védelmét helyezi előtérbe a lakosság helyett.
+És mivel meg kell tartania a társadalmi egyensúlyt, nem engedheti meg a szólásszabadságot,
+az eltérő véleményeket, az alternatív nézeteket vagy bármit, ami bármilyen
+módon aláásná a kormány legitimitását. Nemcsak ez, de a legnagyobb
+hirdetők a médiumok számára azok a cégek, amelyek kapcsolatban állnak a kormánnyal,
+így a médiumok egyre kevésbé akarják feldühíteni a hirdetőiket.
+Amikor a média elfoglalásra kerül, és a hadiipari komplexum külföldi konfliktusokat szít,
+létrejönnek az *örök háborúk*. És magukat a háborúkat aktívan támogatja
+a Fiatello lakosság, mert a médiában csak azt
+látják: „Ezt meg kell tennünk, mert ez a helyes dolog.”
+Az örök háborúk, a bankrendszer megmentése és a túlzott eladósodottság a következő válsághoz vezet,
+de ezúttal sokkal nagyobb mértékben, és Fiatello-nak egyetlen választása van:
+újra megnyomni a Nagy Piros Gombot. De ezúttal más a helyzet. Egy hatalmas bizalomvesztés
+következik be. Minden egyes alkalommal, amikor megnyomja a gombot, egyre több ember érti meg,
+hogy mi történik, és ez így megy körbe-körbe, amíg valami meg nem szakad.
+Most Fiatello kezdi komolyan aggódni.
+Mi történik a pénzzel? Nos, ahelyett, hogy évente 3%-kal növekedne a vásárlóereje,
+most évente 7%-ot veszít, mert 10%-kal több pénzt nyomtat. Ráadásul aláássa
+a gazdaság termelékenységét az árjelzések torzításával.
+Mi történik a Fiatello sziget lakosságával?
+Azok, akik alacsony fix bérből élnek, minimális jövedelmi biztonsággal
+és nincs vagyonuk – nem tudnak nyerni. Évről évre egyre szegényebbé válnak.
+A közepes keresetűek, akik fix fizetéssel és vegyes jövedelmi biztonsággal rendelkeznek – nem ők az elsők,
+akiket elbocsátanak –, gyakran van otthonuk, de azt soha nem tudják eladni,
+hogy nyereséget realizáljanak, mert valahol élniük kell. Ha eladnak egy házat, újat kell
+venniük. Lehet, hogy vannak befektetéseik, de ők válnak az új szegényekké.
+Bizonyára a gazdagok jól járnak, nem? Jövedelmük nagy része eszközök hozamaiból,
+működő vállalkozásokból vagy befektetésekből származik. Jövedelmi biztonságuk magas, mert nem lehet
+őket kirúgni, de számukra ez ezer apró vágással történő halál. A vagyonuk számai folyamatosan
+növekednek, de úgy érzik, hogy szegényebbé válnak. Az élet egyre nehezebb,
+mert a pénzkeresésük üteme, az eszközeik hozama alacsonyabb,
+mint a Fiatello által nyomtatott pénz üteme, így lassan a vagyonukat
+elszívják a politikailag kapcsolt szereplők. Azok, akik kormányzati támogatásban részesülnek,
+és teljesen védett jövedelmi biztonságuk van, paradox módon jövedelmük növekszik, és még
+értékesebbé válik, ahogy a társadalom tovább hanyatlik, mert a kormánynak egyre több beavatkozásra van szüksége.
+Ezen a ponton ez már ipari szintű lopás a társadalom minden tagjától.
+De most már annyi idő telt el, hogy a sziget közepén lévő fal repedezni kezd,
+és úgy repedezik, hogy mind az emberek, mind a pénz
+elkezdhet áramolni az egyik oldalról a másikra.
+Az egyik oldalon ott vannak a Satoshik, amelyek vásárlóereje évente 3%-kal növekszik,
+a másik oldalon a Fiatellók, amelyek évente 7%-kal veszítenek vásárlóerejükből.
+Mi történik és miért?
+Amit Fiatello elkezd látni, az az, hogy a pénz és az emberek elkezdenek távozni,
+mert nem bíznak abban, hogy Fiatellókkal meg tudnak takarítani; Satoshikra vágynak.
+Tehát ez az összegzés: Fiatello szabványon a pénzed ellopja tőled az értéket,
+míg Satoshi szabványon a világ egésze 24/7 azon dolgozik, hogy növelje a vásárlóerődet.
