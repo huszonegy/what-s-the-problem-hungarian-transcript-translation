@@ -4,135 +4,168 @@
 
 2
 00:00:21,440 --> 00:00:28,880
-Hé, Joe. Hé. "Miről van itt szó? Nos, van egy problémánk, és ez egy nagyon nagy probléma,  
+Hé, Joe. Hé. "Miről van itt szó? Nos, van 
+egy problémánk, és ez egy nagyon nagy probléma,  
 
 3
 00:00:28,880 --> 00:00:34,800
-amiről sajnos a legtöbb ember nincs tudatában. Nem számítanak a személyes nézeteid,  
+amiről sajnos a legtöbb ember nincs tudatában. 
+Nem számítanak a személyes nézeteid,  
 
 4
 00:00:34,800 --> 00:00:41,320
-a politikai álláspontod, a vallásod vagy az, hogy hol élsz, mert ha egyszer meglátod a problémát,  
+a politikai álláspontod, a vallásod vagy az, hogy 
+hol élsz, mert ha egyszer meglátod a problémát,  
 
 5
 00:00:41,320 --> 00:00:47,000
-többé nem tudod nem látni. Olyan, mint egy egyirányú ajtó.  Szerencsére viszont megvan a megoldás is,  
+többé nem tudod nem látni. Olyan, mint egy egyirányú ajtó. 
+Szerencsére megvan a megoldás is,  
 
 6
 00:00:47,000 --> 00:00:55,600
-és éppen ez a megoldás az, amit szenvedélyesen meg akarok osztani, és ami miatt rendkívül optimista vagyok a jövőt illetően.   
+amit lelkesen meg szereték osztani, 
+és ami miatt rendkívül optimista vagyok a jövőt illetően.   
 
 7
 00:00:55,600 --> 00:01:03,280
-A kihívás azonban az, hogy senki sem tud igazán értékelni egy megoldást, amíg nem érti meg, mi  
+A kihívás azonban az, hogy senki sem tud igazán 
+értékelni egy megoldást, amíg nem érti meg, mi  
 
 8
 00:01:03,280 --> 00:01:10,840
-a probléma. Ezért készítettem ezt a prezentációt néhány barátomnak. Nem feltételez  
+a probléma. Ezért készítettem ezt a prezentációt 
+néhány barátomnak. Nem feltételez  
 
 9
 00:01:10,840 --> 00:01:17,520
-semmilyen előzetes tudást, csupán azt, hogy valaki emberi lény, némi élettapasztalattal. Ők biztattak arra,  
+semmilyen előzetes tudást, csupán azt, hogy a hallgató 
+már rendlekezik, némi élettapasztalattal. Ők biztattak aztán arra,  
 
 10
 00:01:17,520 --> 00:01:29,960
-hogy készítsem el ezt a prezentációt videó formájában, hogy megoszthassam mindenkivel. Remélem, tetszeni fog.  
+hogy készítsem el ezt a prezentációt videó formájában, 
+hogy megoszthassam mindenkivel. Remélem, tetszeni fog.
 
 11
 00:01:29,960 --> 00:01:38,760
-Üdvözöllek a 'Mi a probléma?' előadásban.  Szóval, mi a probléma? Sajnos túl sok. Valószínűleg kétszer  
+Üdvözöllek a 'Mi a probléma?' előadásban. Szóval, mi a 
+probléma? Sajnos túl sok. Valószínűleg kétszer  
 
 12
 00:01:38,760 --> 00:01:47,400
-ennyi dolgot is felírhattam volna erre a diára. Úgy érzem, mindannyian érezzük azt a belső nyugtalanságot,  
+ennyi dolgot is felírhattam volna erre a diára. 
+Úgy érzem, mindannyian érezzük azt a belső nyugtalanságot,  
 
 13
 00:01:47,400 --> 00:01:52,080
-azt, hogy az életünkben és a világban a dolgok nem a megfelelő irányba haladnak.  
+azt, hogy az életünkben és a világban a 
+dolgok nem a megfelelő irányba haladnak.  
 
 14
 00:01:52,080 --> 00:02:00,080
-A dolgok nehezebbé válnak, nem könnyebbé, és azt hiszem, legtöbben felismernénk ezeknek az itt felsorolt  
+A dolgok nehezebbé válnak, nem könnyebbé, és azt hiszem, 
+legtöbben felismernénk ezeknek az itt felsorolt  
 
 15
 00:02:00,080 --> 00:02:04,320
-dolgoknak néhány elemét, amelyek közvetlenül vagy közvetve érintik az életünket.  
+dolgoknak néhány elemét, amelyek közvetlenül 
+vagy közvetve érintik az életünket.  
 
 16
 00:02:04,320 --> 00:02:12,040
-Amit ma itt meg szeretnék mutatni nektek, az az, hogy bár ezek a dolgok látszólag  
+Amit ma itt meg szeretnék mutatni nektek, az az, 
+hogy bár ezek a dolgok látszólag  
 
 17
 00:02:12,040 --> 00:02:21,240
-függetlenek egymástól, valójában nem azok. Az összes probléma elsődleges oka a pénzünk minősége.  
+függetlenek egymástól, valójában nem azok. Az összes 
+probléma elsődleges oka a pénzünk minősége.
 
 18
 00:02:21,240 --> 00:02:26,320
-Most egy történeten keresztül fogjuk ezt megérteni. Képzeljük el, hogy van egy távoli világ, ahol  
+Most egy történeten keresztül fogjuk ezt megérteni. 
+Képzeljük el, hogy van egy távoli világ, ahol  
 
 19
 00:02:26,320 --> 00:02:32,920
-több száz okos ember egy hajón utazik, de a hajó zátonyra fut egy lakatlan  
+több száz okos ember egy hajón utazik, 
+de a hajó zátonyra fut egy lakatlan  
 
 20
 00:02:32,920 --> 00:02:37,800
-szigeten. Ez a sziget olyan messze van mindentől, hogy gyakorlatilag el vannak vágva a külvilágtól,  
+szigeten. Ez a sziget olyan messze van mindentől, 
+hogy gyakorlatilag el vannak vágva a külvilágtól,  
 
 21
 00:02:37,800 --> 00:02:42,360
-viszont a sziget tele van erőforrásokkal – mindennel rendelkezik, amire szükségük lehet  
+viszont a sziget tele van erőforrásokkal – 
+mindennel rendelkezik, amire szükségük lehet  
 
 22
 00:02:42,360 --> 00:02:48,520
-a társadalom újraépítéséhez. Mivel ezek az emberek egy fejlett civilizációból érkeztek, pontosan tudják,  
+a társadalom újraépítéséhez. Mivel ezek az emberek 
+egy fejlett civilizációból érkeztek, pontosan tudják,  
 
 23
 00:02:48,520 --> 00:02:54,480
-hova szeretnének eljutni, de most semmijük sincs, mindent elölről kell kezdeniük.  
+hova szeretnének eljutni, de most semmijük 
+sincs, mindent elölről kell kezdeniük.
 
 24
 00:02:54,480 --> 00:02:58,680
-Az is egyértelmű, hogy szükségük lesz egy módra, hogy egymással kereskedhessenek, amikor elkezdik az  
+Az is egyértelmű, hogy szükségük egy megoldsásra, 
+hogy egymással kereskedhessenek, amikor elkezdik az  
 
 25
 00:02:58,680 --> 00:03:04,160
-újjáépítést, ezért prioritásként kezelik annak eldöntését, hogy mit használjanak új pénzként. És most  
+újjáépítést, ezért prioritásként kezelik annak eldöntését, 
+hogy mit használjanak új pénzként. És most  
 
 26
 00:03:04,160 --> 00:03:09,080
-függesszük fel kissé a hitetlenségünket, és képzeljük el, hogy bár semmijük sincs, képesek  
+függesszük fel a kételkedést, és képzeljük el, 
+hogy bár semmijük sincs, képesek  
 
 27
 00:03:09,080 --> 00:03:14,160
-bármilyen monetáris rendszert létrehozni, bármilyen tulajdonságokkal. Az első kérdés tehát, amit meg kell  
+bármilyen monetáris rendszert létrehozni, bármilyen 
+tulajdonságokkal. Az első kérdés tehát, amit meg kell  
 
 28
 00:03:14,160 --> 00:03:21,200
-válaszolniuk: mi tesz egy pénzt jóvá? Hét dolog van. Mivel ezek az emberek bármit létrehozhatnak,  
+válaszolniuk: mi tesz egy pénzt jóvá? Hét dolog van. 
+Mivel ezek az emberek bármit létrehozhatnak,  
 
 29
 00:03:21,200 --> 00:03:25,760
-nemcsak jó pénzt hoznak létre, hanem tökéletes pénzt.  
+nemcsak jó pénzt hoznak létre, 
+hanem tökéletes pénzt.
 
 30
 00:03:25,760 --> 00:03:32,360
-A tökéletes pénz ritka, ami azt jelenti, hogy kínálata örökre rögzített, és mindenki számára azonnal  
+A tökéletes pénz ritka, ami azt jelenti, hogy 
+kínálata örökre rögzített, és mindenki számára azonnal  
 
 31
 00:03:32,360 --> 00:03:36,960
-és költségmentesen ellenőrizhető. Ha mindenki bármikor,  
+és költségmentesen ellenőrizhető. 
+Ha mindenki bármikor, bármilyen költség nélkül  
 
 32
 00:03:36,960 --> 00:03:44,160
-bármilyen költség nélkül ellenőrizheti, akkor maga is meggyőződhet arról, hogy senki nem hoz létre többet belőle.  
+ellenőrizheti, akkor maga is meggyőződhet arról, 
+hogy senki nem hoz létre többet belőle.
 
 33
 00:03:44,160 --> 00:03:51,360
-Hordozhatónak kell lennie, hogy könnyedén mozgatható és tárolható legyen elhanyagolható költségek mellett.  
+Hordozhatónak kell lennie, hogy könnyedén mozgatható és 
+tárolható legyen elhanyagolható költségek mellett.
 
 34
 00:03:51,360 --> 00:03:56,400
-Oszthatónak kell lennie, és a tökéletes pénz végtelenül osztható.  
+Oszthatónak kell lennie, a tökéletes 
+pénz végtelenül osztható.
 
 35
 00:03:56,400 --> 00:03:59,800
@@ -140,187 +173,230 @@ Tartósnak kell lennie – nem rothadhat meg vagy romolhat el.  
 
 36
 00:03:59,800 --> 00:04:04,760
-Nem romolhat el, tehát a tökéletes pénz örökké létezik.  
+Nem romolhat meg, tehát a tökéletes pénz örökké létezik. 
 
 37
 00:04:04,760 --> 00:04:10,800
-Helyettesíthetőnek kell lennie, vagyis minden darab örökre ugyanaz, mint bármelyik másik darab.  
+Helyettesíthetőnek kell lennie, vagyis minden 
+darab örökre ugyanaz, mint bármelyik másik darab.
 
 38
 00:04:10,800 --> 00:04:18,200
-Elfogadhatónak kell lennie, hogy bárki bárhol tudjon küldeni és fogadni.  
+Elfogadhatónak kell lennie, hogy bárki 
+bárhol tudjon küldeni és fogadni.
 
 39
 00:04:18,200 --> 00:04:21,160
-És az igazán fontos dolog, hogy ellenállónak kell lennie a cenzúrával  
+És az igazán fontos dolog, hogy 
+ellenállónak kell lennie a cenzúrával  
 
 40
 00:04:21,160 --> 00:04:26,680
-szemben – te magad birtokolod. Senki nem veheti el tőled az  
+szemben – te magad birtokolod. 
+Senki nem veheti el tőled az  
 
 41
 00:04:26,680 --> 00:04:32,560
-engedélyed nélkül, és senki nem akadályozhat meg abban, hogy küldj vagy fogadj.  
+engedélyed nélkül, és senki nem akadályozhat 
+meg abban, hogy küldj vagy fogadj.
 
 42
 00:04:32,560 --> 00:04:39,640
-Ez nagyszerű, eldöntik, hogy a tökéletes pénzt fogják használni. De aztán vita alakul ki. Két vezető  
+Ez nagyszerű, eldöntik, hogy a tökéletes pénzt 
+fogják használni. De aztán vita alakul ki. Két vezető  
 
 43
 00:04:39,640 --> 00:04:46,760
-emelkedik ki a lakosságból. Az első, Satoshi, azt mondja: "Nos, mivel ezek a  
+emelkedik ki a lakosságból. Az első, 
+Satoshi, azt mondja: "Nos, mivel ezek a  
 
 44
 00:04:46,760 --> 00:04:52,240
-tökéletes pénz jellemzői, ezek igazak ma, igazak holnap és igazak örökké,  
+tökéletes pénz jellemzői, ezek igazak ma, 
+igazak holnap és igazak örökké,  
 
 45
 00:04:52,240 --> 00:04:57,040
-ezért rögzítenünk kell őket, és soha nem szabad változtatni rajtuk."  Míg Fiatello azt mondja:  
+ezért rögzítenünk kell őket, és soha nem szabad 
+változtatni rajtuk." Míg Fiatello azt mondja:  
 
 46
 00:04:57,040 --> 00:05:02,800
-"Értem. Értem a tökéletes pénz jellemzőit, és teljesen egyetértek *de* mi van akkor, ha  
+"Értem. Értem a tökéletes pénz jellemzőit, 
+és teljesen egyetértek *de* mi van akkor, ha  
 
 47
 00:05:02,800 --> 00:05:06,880
-vészhelyzet van? Mi van, ha valamit meg kell változtatnunk? Mi van, ha azok, akiket a pénzünk  
+vészhelyzet van? Mi van, ha valamit meg kell 
+változtatnunk? Mi van, ha azok, akiket a pénzünk  
 
 48
 00:05:06,880 --> 00:05:11,760
-kezelésére kijelölünk, úgy érzik, hogy nem működik, és módosítani kell? Szerintem legyen  
+kezelésével megbítunk, úgy érzik, hogy nem működik, 
+és módosítani kell? Szerintem legyen  
 
 49
 00:05:11,760 --> 00:05:18,400
-tökéletes pénzünk, de legyen egy nagy piros gomb is, amelyet megnyomhatunk, és  
+tökéletes pénzünk, de legyen egy nagy 
+piros gomb is, amelyet megnyomhatunk, és  
 
 50
 00:05:18,400 --> 00:05:26,160
-ha szükséges, bármelyik jellemzőt megváltoztathatjuk. Természetesen soha senki nem nyomná meg, de biztos, ami biztos."  
+ha szükséges, bármelyik jellemzőt megváltoztathatjuk. 
+Természetesen soha senki nem nyomná meg, de biztos, ami biztos."
 
 51
 00:05:26,160 --> 00:05:30,240
-Ez kibékíthetetlen ellentétet szül, ezért radikális megoldásként  
+Ez kibékíthetetlen ellentétet szül, 
+ezért radikális megoldásként  
 
 52
 00:05:30,240 --> 00:05:33,000
-egy hatalmas falat építenek a sziget közepén. A fal egyik  
+egy hatalmas falat építenek a 
+sziget közepén. A fal egyik  
 
 53
 00:05:33,000 --> 00:05:39,240
-oldalán létrehozzák a Satoshik nevű valutát, ami mindig tökéletes pénz,  
+oldalán létrehozzák a Satoshik nevű 
+valutát, ami mindig tökéletes pénz,  
 
 54
 00:05:39,240 --> 00:05:45,840
-a másik oldalon pedig a Fiatellókat, ami tökéletes pénz, de azzal a lehetőséggel, hogy változtatni lehessen rajta.  
+a másik oldalon pedig a Fiatellókat, ami tökéletes pénz, 
+de azzal a lehetőséggel, hogy változtatni lehessen rajta.
 
 55
 00:05:45,840 --> 00:05:50,240
-Ez a fal olyan nagy, hogy elvágja a kommunikációt és a kereskedelmet a sziget két  
+Ez a fal olyan nagy, hogy elvágja a 
+kommunikációt és a kereskedelmet a sziget két  
 
 56
 00:05:50,240 --> 00:05:54,400
-oldala között, így gyakorlatilag elszigeteltek egymástól.  
+oldala között, így gyakorlatilag elszigeteltek egymástól. 
 
 57
 00:05:54,400 --> 00:05:59,720
-Kezdetben mindkét szigetoldalon senkinek sincs semmije, így mindenki nulláról  
+Kezdetben mindkét szigetoldalon senkinek 
+sincs semmije, így mindenki nulláról  
 
 58
 00:05:59,720 --> 00:06:06,680
-indul. Eleinte az emberek önellátók – mindenki maga halászik,  
+indul. Eleinte az emberek önellátók – 
+mindenki maga halászik,  
 
 59
 00:06:06,680 --> 00:06:11,880
-vág fát tüzelőnek és házak építéséhez, valamint saját  
+fát vág tüzelőnek és házak építéséhez, valamint saját  
 
 60
 00:06:11,880 --> 00:06:17,160
-menedéket épít. Bár tökéletes pénzük van, a kereskedelem itt nagyon korlátozott,  
+menedéket épít. Bár tökéletes pénzük van, 
+a kereskedelem itt nagyon korlátozott,  
 
 61
 00:06:17,160 --> 00:06:23,280
-mert az emberek keményen dolgoznak, hogy kielégítsék mindennapi szükségleteiket ezekkel a javakkal kapcsolatban.  
+mert az emberek keményen dolgoznak, hogy kielégítsék 
+mindennapi szükségleteiket ezekkel a javakkal kapcsolatban.  
 
 62
 00:06:23,280 --> 00:06:28,120
-De az emberek különbözőek. Egyesek jobbak bizonyos dolgokban, mint mások, és hamar  
+De az emberek különbözőek. Egyesek jobbak 
+bizonyos dolgokban, mint mások, és hamar  
 
 63
 00:06:28,120 --> 00:06:33,520
-rájönnek, hogy ha azzal foglalkoznak, amiben jók, és csökkentik azzal töltött időt,  
+rájönnek, hogy ha azzal foglalkoznak, amiben 
+jók, és csökkentik azzal töltött időt,  
 
 64
 00:06:33,520 --> 00:06:39,840
-amiben gyengék, akkor többet tudnak hozzájárulni a társadalomhoz. Ugyanannyi idő alatt több  
+amiben gyengék, akkor többet tudnak hozzájárulni 
+a társadalomhoz. Ugyanannyi idő alatt több  
 
 65
 00:06:39,840 --> 00:06:45,200
-árut tudnak előállítani a társadalom számára, mint az átlagember.  A  
+árut tudnak előállítani a társadalom 
+számára, mint az átlagember. A  
 
 66
 00:06:45,200 --> 00:06:51,080
-favágó például minden idejét favágással tölti. Abbahagyja a halászatot, nem épít többé menedéket,  
+favágó például minden idejét favágással tölti. 
+Abbahagyja a halászatot, nem épít többé menedéket,  
 
 67
 00:06:51,080 --> 00:06:55,480
-és mivel az idejét favágással tölti, több fát tud biztosítani mindenki  
+és mivel az idejét favágással tölti, 
+több fát tud biztosítani mindenki  
 
 68
 00:06:55,480 --> 00:07:01,400
-számára, mint ha hárman dolgoznának ezen harmadidőben.  
+számára, mint ha hárman 
+dolgoznának ezen harmadidőben.
 
 69
 00:07:01,400 --> 00:07:06,560
-Ez nemcsak növeli a fa mennyiségét, ami csökkenti annak árát a  
+Ez nemcsak növeli a fa mennyiségét, 
+ami csökkenti annak árát a  
 
 70
 00:07:06,560 --> 00:07:11,080
-szigeten élők számára, hanem a minőség is javul – hiszen ő jobban ért hozzá.  
+szigeten élők számára, hanem a minőség 
+is javul – hiszen ő jobban ért hozzá.  
 
 71
 00:07:11,080 --> 00:07:17,760
-Magasabb minőségű faanyagot állít elő, így az árak csökkennek, és a minőség javul. Ráadásul  
+Magasabb minőségű faanyagot állít elő, így az árak 
+csökkennek, és a minőség javul. Ráadásul  
 
 72
 00:07:17,760 --> 00:07:21,600
-nem ő az egyetlen favágó. Többen is vannak, akik  
+nem ő az egyetlen favágó. 
+Többen is vannak, akik  
 
 73
 00:07:21,600 --> 00:07:27,480
-versenyeznek egymással, hogy fát szállítsanak mindenkinek. Ez az árakban és a minőségben is  
+versenyeznek egymással, hogy fát szállítsanak 
+mindenkinek. Ez az árszabásban és a minőségi termelésben is  
 
 74
 00:07:27,480 --> 00:07:33,200
-versenyt eredményez. És most az történik, hogy mivel a favágónak más javakra is szüksége van  
+versenyt eredményez. És most az történik, 
+hogy mivel a favágónak más javakra is szüksége van  
 
 75
 00:07:33,200 --> 00:07:37,280
-a túléléshez, el kell adnia a fát, hogy halat vegyen, és el kell adnia a fát, hogy kifizesse az  
+a túléléshez, el kell adnia a fát, hogy halat vegyen, 
+és el kell adnia a fát, hogy kifizesse az  
 
 76
 00:07:37,280 --> 00:07:43,800
-otthonépítő szolgáltatásait. Most már mindenki aktívan kereskedik ezzel a tökéletes pénzzel.  
+kőművest. Most már mindenki aktívan kereskedik 
+ezzel a tökéletes pénzzel.
 
 77
 00:07:43,800 --> 00:07:47,920
-Mivel a folyamatok folyamatosan javulnak, a favágó kevesebb idő alatt képes kielégíteni a  
+Mivel a folyamatok folyamatosan javulnak, 
+a favágó kevesebb idő alatt képes kielégíteni a  
 
 78
 00:07:47,920 --> 00:07:54,000
-fa iránti igényt a lakosság körében. Ezt az időt arra fordíthatja, hogy átgondolja  
+fa iránti igényt a lakosság körében. 
+Ezt az időt arra fordíthatja, hogy átgondolja  
 
 79
 00:07:54,000 --> 00:07:58,240
-saját folyamatait és innovációit – talán még hatékonyabbá teheti a favágást.  
+saját folyamatait és innovációit – talán 
+még hatékonyabbá teheti a favágást.  
 
 80
 00:07:58,240 --> 00:08:03,960
-Ha ez sikerül, az tovább csökkenti az árakat és javítja a minőséget.  
+Ha ez sikerül, az tovább csökkenti 
+az árakat és javítja a minőséget.  
 
 81
 00:08:03,960 --> 00:08:09,040
-Ha eléri a favágás innovációinak végét, a felhalmozott pénzét  
+Ha eléri a favágás innovációinak 
+végét, a felhalmozott pénzét  
 
 82
 00:08:09,040 --> 00:08:13,840
@@ -328,87 +404,108 @@ Ha eléri a favágás innovációinak végét, a felhalmozott pénzét  
 
 83
 00:08:13,840 --> 00:08:20,280
-aki így hajót építhet, hogy növelje a fogási kapacitását mindenki számára.  
+aki így hajót építhet, hogy növelje a 
+kapacitását mindenki számára.
 
 84
 00:08:20,280 --> 00:08:24,800
-Így, ami egy szabad piacon történik tökéletes pénzzel:  
+Így, ami egy szabad piacon 
+történik tökéletes pénzzel:  
 
 85
 00:08:24,800 --> 00:08:29,440
-*az árak örökké csökkennek, és a minőség örökké javul.*  
+*az árak örökké csökkennek, 
+és a minőség örökké javul.*
 
 86
 00:08:30,160 --> 00:08:35,200
-Mindkét szigetoldalon az emberek azt látják, hogy a pénzük vásárlóereje  
+Mindkét szigetoldalon az emberek azt látják, 
+hogy a pénzük vásárlóereje  
 
 87
 00:08:35,200 --> 00:08:42,960
-növekedni kezd. A javak holnap olcsóbbak, mint ma, így az árak folyamatosan csökkennek. A  
+növekedni kezd. A javak holnap olcsóbbak, mint ma, 
+így az árak folyamatosan csökkennek. A  
 
 88
 00:08:42,960 --> 00:08:49,880
-vásárlóerő mindkét valutában évi körülbelül 3%-kal nő, ami javítja az  
+vásárlóerő mindkét valutában évi 
+körülbelül 3%-kal nő, ami javítja az  
 
 89
 00:08:49,880 --> 00:08:57,160
-életminőséget. Az élet egyre olcsóbbá válik mindenki számára, nemcsak a társadalom  
+életminőséget. Az élet egyre olcsóbbá válik 
+mindenki számára, nemcsak a társadalom  
 
 90
 00:08:57,160 --> 00:09:06,760
-legtermelékenyebb tagjai számára. De a kulcs az, hogy *maga a pénz válik egyre értékesebbé az idő múlásával.*  
+legtermelékenyebb tagjai számára. De a kulcs az, hogy *maga 
+a pénz válik egyre értékesebbé az idő múlásával.*
 
 91
 00:09:06,760 --> 00:09:12,640
-Ez egészen addig így megy, amíg meg nem jelennek ezek a fickók. Mivel a társadalom és a lakosság  
+Ez egészen addig így megy, amíg meg nem jelennek 
+ezek a fickók. Mivel a társadalom és a lakosság  
 
 92
 00:09:12,640 --> 00:09:18,000
-növekszik, mindkét szigetoldal kormányt választ. Itt már  
+növekszik, mindkét szigetoldal 
+kormányt választ. Itt már  
 
 93
 00:09:18,000 --> 00:09:22,080
-nem számít, hogy a kormány baloldali vagy jobboldali, nagy vagy kicsi, felfelé  
+nem számít, hogy a kormány baloldali vagy 
+jobboldali, nagy vagy kicsi, felfelé  
 
 94
 00:09:22,080 --> 00:09:27,920
-vagy lefelé néző – mind ugyanazt teszik ezen a téren.  
+vagy lefelé teking – mind ugyanazt 
+teszik ezen a téren.
 
 95
 00:09:27,920 --> 00:09:34,080
-Akármilyen jól működik a kormány, előbb-utóbb elkerülhetetlenül hiánnyal fog szembenézni, ami azt jelenti,  
+Akármilyen jól működik a kormány, előbb-utóbb elkerülhetetlenül 
+hiánnyal fog szembenézni, ami azt jelenti,  
 
 96
 00:09:34,080 --> 00:09:39,960
-hogy többet költ, mint amennyit kap. Ez lehet rossz gazdálkodás eredménye,  
+hogy többet költ, mint amennyit kap. 
+Ez lehet rossz gazdálkodás eredménye,  
 
 97
 00:09:39,960 --> 00:09:44,800
-de lehet külső körülmények, például egy természeti katasztrófa miatt is.  
+de lehet külső körülmények, például 
+egy természeti katasztrófa miatt is.  
 
 98
 00:09:44,800 --> 00:09:51,320
-Az okok nem fontosak, de idővel ez elkerülhetetlenül bekövetkezik.  
+Az okok nem fontosak, de idővel ez 
+elkerülhetetlenül bekövetkezik.
 
 99
 00:09:51,320 --> 00:09:56,040
-Ezen a ponton eltérés kezd kialakulni a sziget két oldala között. Satoshinak két  
+Ezen a ponton eltérés kezd kialakulni a 
+sziget két oldala között. Satoshinak két  
 
 100
 00:09:56,040 --> 00:10:03,240
-választása van: vagy megemeli az adókat, vagy csökkenti a kiadásokat,  
+választása van: vagy megemeli az adókat, 
+vagy csökkenti a kiadásokat,  
 
 101
 00:10:03,240 --> 00:10:06,160
-esetleg mindkettőt kombinálja. Fiatellónak ugyanezek  
+esetleg mindkettőt kombinálja. 
+Fiatellónak ugyanezek  
 
 102
 00:10:06,160 --> 00:10:11,360
-a lehetőségei vannak... de van egy Nagy Piros Gombja is.  
+a lehetőségei vannak... de van 
+a Nagy Piros Gombja is.
 
 103
 00:10:11,360 --> 00:10:16,040
-A lényeg itt az, hogy mindketten újraválasztásra készülnek, és Fiatello tudja,  
+A lényeg itt az, hogy mindketten 
+újraválasztásra készülnek, és Fiatello tudja,  
 
 104
 00:10:16,040 --> 00:10:22,680
@@ -1444,7 +1541,7 @@ dollárokat, és aranyat kaphattál értük cserébe. Nixon leválasztotta az Am
 
 362
 00:33:52,840 --> 00:33:59,320
-mennyiségű pénzt nyomtasson saját szükségleteinek kielégítésére.  A bal oldali tengelyen a piros diagram  
+mennyiségű pénzt nyomtasson saját szükségleteinek kielégítésére. A bal oldali tengelyen a piros diagram  
 
 363
 00:33:59,320 --> 00:34:06,440
@@ -1684,12 +1781,12 @@ Először is, köszönöm, hogy megnézted. Remélem, élvezted. Kérlek, oszd m
 
 422
 00:39:11,400 --> 00:39:16,760
-bárkivel, aki fontos neked.  És ha van egyetlen dolog, amit ebből magaddal viszel,  
+bárkivel, aki fontos neked. És ha van egyetlen dolog, amit ebből magaddal viszel,  
 
 423
 00:39:16,760 --> 00:39:27,818
-remélem, az ez lesz:  **Ha megjavítjuk a pénzt, megjavítjuk a világot.**  Köszönöm! [Zene]  
+remélem, az ez lesz: **Ha megjavítjuk a pénzt, megjavítjuk a világot.** Köszönöm! [Zene]  
 
 424
-00:39:27,818 -->  00:39:35,818
+00:39:27,818 --> 00:39:35,818
 Fordította: Lóri, https://huszonegy.world/
