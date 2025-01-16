@@ -1690,7 +1690,7 @@ el kell vinned a bankba, be kell cserélned  
 
 342
 00:31:55,360 --> 00:32:03,000
-őket új bankjegyekre. Rendszeresen 
+a régieket új bankjegyekre. Rendszeresen 
 újraközpontosítanak mindent, szándékosan.
 
 343
@@ -1774,18 +1774,18 @@ mennyiségéről az idő múlásával. Itt bejelöltem 1971-et,  
 
 359
 00:33:33,320 --> 00:33:40,080
-mert ekkor lépett ki Amerika egyoldalúan az aranyalapról. 
-1971 előtt visszavihetted a  
+mert ekkor lépett ki Amerika egyoldalúan az arany-standardból. 
+1971 előtt az nemzetállamok visszavihették a  
 
 360
 00:33:40,080 --> 00:33:46,600
-dollárokat, és aranyat kaphattál értük cserébe. 
-Nixon leválasztotta az Amerikát az aranyalapról,  
+dollárokat, és aranyat kaphattak értük cserébe. 
+Nixon megszüntette a dollár aranyfedezetét,  
 
 361
 00:33:46,600 --> 00:33:52,840
 és azóta a világ minden valutája követte ezt, 
-lehetővé téve az számukre, hogy korlátlan  
+lehetővé téve az számukra, hogy korlátlan  
 
 362
 00:33:52,840 --> 00:33:59,320
@@ -1799,7 +1799,7 @@ a jobb oldalon pedig az amerikai államadósság,  
 
 364
 00:34:06,440 --> 00:34:11,160
-amely még egy hónappal később is elavult – 
+azót már jóval magasabb – 
 most már 36 billió dollár!  
 
 365
@@ -1893,7 +1893,7 @@ néhány rövid boldog időszak  
 
 383
 00:35:41,920 --> 00:35:51,000
-kivételével, állandó csalás és megtévesztés
+kivételével, az állandó csalás és megtévesztés
 története.” És ezt 1988-ban mondta.
 
 384
@@ -1918,7 +1918,7 @@ hozzá a Nagy Vörös Gombhoz.
 388
 00:36:16,240 --> 00:36:19,880
 jó pénzünk, amíg ki nem 
-vesszük a kormány kezéből.  
+vesszük azt a kormány kezéből.  
 
 389
 00:36:19,880 --> 00:36:25,200
@@ -1942,7 +1942,7 @@ tapasztalt problémák között  
 
 393
 00:36:42,480 --> 00:36:49,200
-világosabbak lettek, egyértelművé válik, hogy ha 
+világosabb lett, egyértelművé válik, hogy ha 
 megjavítjuk a pénzt, megjavítjuk a világot.
 
 394
@@ -1952,7 +1952,7 @@ A jó hír pedig, és ez a legjobb hír:  
 395
 00:36:52,440 --> 00:36:57,520
 a Satoshik léteznek, és még 
-Fiatello is megtért.
+Fiatello is mostmár megérti.
 
 396
 00:37:00,600 --> 00:37:04,920
@@ -1979,7 +1979,7 @@ Arra bátorítanálak, hogy kezdd újra.
 
 401
 00:37:24,040 --> 00:37:30,120
-Amikor az információinkat a médiából szerezzük, 
+Amikor az információt a médiából szerezzük, 
 vagy olyan emberektől, akik szintén  
 
 402
@@ -1989,7 +1989,7 @@ a médiából szerezték azokat, és ez a média kapcsolatban 
 
 403
 00:37:35,720 --> 00:37:41,000
-a pénznyomtatóból, akkor ezek az 
+a pénznyomtatásból, akkor ezek az 
 információk általában nem a legpontosabbak.
 
 404
@@ -2042,7 +2042,7 @@ részeként, lépjen kapcsolatba velünk.
 
 414
 00:38:28,280 --> 00:38:32,360
-A harmadik dolog pedig az, hogy meghívtok 
+A harmadik lehetőség, hogy meghívtok 
 minket előadni – szeretnénk, ha minél több ember  
 
 415
@@ -2077,7 +2077,7 @@ X platformon vagy, gyere, köszönj, 
 421
 00:39:05,200 --> 00:39:11,400
 Először is, köszönöm, hogy megnézted. 
-Remélem, élvezted. Kérlek, oszd meg  
+Remélem, tetszett. Kérlek, oszd meg  
 
 422
 00:39:11,400 --> 00:39:16,760
@@ -2086,7 +2086,7 @@ dolog, amit ebből magaddal viszel,  
 
 423
 00:39:16,760 --> 00:39:27,818
-remélem, az ez lesz: **Ha megjavítjuk a pénzt, 
+remélem, ez lesz: **Ha megjavítjuk a pénzt, 
 megjavítjuk a világot.** Köszönöm! [Zene]  
 
 424
