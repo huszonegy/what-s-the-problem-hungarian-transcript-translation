@@ -1,6 +1,6 @@
 1
-00:00:20,982 --> 00:00:21,440
-[Zene]
+00:00:00,800 --> 00:00:04,440
+*Mi a probléma?*
 
 2
 00:00:21,440 --> 00:00:28,880
@@ -19,7 +19,7 @@ hol élsz, mert ha egyszer meglátod a problémát,  
 
 5
 00:00:41,320 --> 00:00:47,000
-többé nem tudod nem látni. Olyan, mint egy egyirányú ajtó. 
+többé nem tudod nem észrevenni, és onnan már nincs visszaút. 
 Szerencsére megvan a megoldás is,  
 
 6
@@ -35,17 +35,17 @@ A kihívás azonban az, hogy senki sem tud igazán 
 8
 00:01:03,280 --> 00:01:10,840
 a probléma. Ezért készítettem ezt a prezentációt 
-néhány barátomnak. Nem feltételez  
+néhány barátomnak. Nincs szükség  
 
 9
 00:01:10,840 --> 00:01:17,520
-semmilyen előzetes tudást, csupán azt, hogy a hallgató 
-már rendlekezik, némi élettapasztalattal. Ők biztattak aztán arra,  
+speciális tudásra, csak némi élettapasztalatra. 
+Ők biztattak arra,  
 
 10
 00:01:17,520 --> 00:01:29,960
-hogy készítsem el ezt a prezentációt videó formájában, 
-hogy megoszthassam mindenkivel. Remélem, tetszeni fog.
+hogy készítsem el ezt a videós prezentációt, 
+megosztva mindenkivel. Remélem, tetszeni fog.
 
 11
 00:01:29,960 --> 00:01:38,760
@@ -80,7 +80,7 @@ hogy bár ezek a dolgok látszólag  
 17
 00:02:12,040 --> 00:02:21,240
 függetlenek egymástól, valójában nem azok. Az összes 
-probléma elsődleges oka a pénzünk minősége.
+probléma elsődleges okozója a pénzünk minősége.
 
 18
 00:02:21,240 --> 00:02:26,320
@@ -114,17 +114,17 @@ sincs, mindent elölről kell kezdeniük.
 
 24
 00:02:54,480 --> 00:02:58,680
-Az is egyértelmű, hogy szükségük van egy megoldsásra, 
-hogy egymással kereskedhessenek, amikor elkezdik az  
+Az is egyértelmű, hogy meg kell tanulniuk kereskedni egymással, 
+amikor elkezdik az újjáépítést.  
 
 25
 00:02:58,680 --> 00:03:04,160
-újjáépítést, ezért előnyben részesítik annak eldöntését, 
-hogy mit használjanak új pénzként. És most  
+Elsődlegesen azt kell eldönteniük, 
+hogy mit használjanak új pénzeszközként.  
 
 26
 00:03:04,160 --> 00:03:09,080
-függesszük fel a kételkedést, és képzeljük el, 
+Kétkedés nélkül képzeljük el, 
 hogy bár semmijük sincs, képesek  
 
 27
@@ -139,22 +139,21 @@ Mivel ezek az emberek bármit létrehozhatnak,  
 
 29
 00:03:21,200 --> 00:03:25,760
-nemcsak jó pénzt hoznak létre, 
-hanem a tökéletes pénzt.
+nemcsak jó pénzt, hanem tökéletes pénzt.
 
 30
 00:03:25,760 --> 00:03:32,360
 A tökéletes pénz szűkös, ami azt jelenti, hogy 
-kínálata örökre rögzített, és mindenki számára azonnal  
+kínálata örökre rögzített, mindenki számára azonnal  
 
 31
 00:03:32,360 --> 00:03:36,960
 és költségmentesen ellenőrizhető. 
-Ha mindenki bármikor, bármilyen költség nélkül  
+Ha bárki bármikor, költségmentesen ellenőrizheti,  
 
 32
 00:03:36,960 --> 00:03:44,160
-ellenőrizheti, akkor maga is meggyőződhet arról, 
+akkor meggyőződhet arról, 
 hogy senki nem hoz létre többet belőle.
 
 33
@@ -169,11 +168,11 @@ pénz végtelenül osztható.
 
 35
 00:03:56,400 --> 00:03:59,800
-Tartósnak kell lennie – nem rothadhat meg vagy romolhat el.  
+Tartósnak kell lennie – nem gyengülhet meg vagy romolhat el.  
 
 36
 00:03:59,800 --> 00:04:04,760
-Nem romolhat meg, tehát a tökéletes pénz örökké létezik. 
+Nem használódhat el, tehát a tökéletes pénz örökké létezik. 
 
 37
 00:04:04,760 --> 00:04:10,800
@@ -192,7 +191,7 @@ ellenállónak kell lennie a cenzúrával  
 
 40
 00:04:21,160 --> 00:04:26,680
-szemben – te birtokolod, 
+szemben – te birtoklod, 
 senki nem veheti el tőled az  
 
 41
@@ -213,7 +212,7 @@ Satoshi, azt mondja: "Nos, mivel ezek a  
 44
 00:04:46,760 --> 00:04:52,240
 tökéletes pénz jellemzői, ezek igazak ma, 
-igazak holnap és igazak örökké,  
+holnap és örökre,  
 
 45
 00:04:52,240 --> 00:04:57,040
@@ -238,7 +237,7 @@ kezelésével megbítunk, úgy érzik, hogy nem működik, 
 49
 00:05:11,760 --> 00:05:18,400
 tökéletes pénzünk, de legyen egy nagy 
-vörös gomb is, amelyet megnyomhatunk, és  
+Piros gomb is, amelyet megnyomhatunk, és  
 
 50
 00:05:18,400 --> 00:05:26,160
@@ -263,7 +262,7 @@ valutát, ami mindig tökéletes pénz,  
 54
 00:05:39,240 --> 00:05:45,840
 a másik oldalon pedig a Fiatellókat, ami tökéletes pénz, 
-de azzal a lehetőséggel, hogy változtatni lehessen rajta.
+változtatási lehetőséggel.
 
 55
 00:05:45,840 --> 00:05:50,240
@@ -272,16 +271,16 @@ kommunikációt és a kereskedelmet a sziget két  
 
 56
 00:05:50,240 --> 00:05:54,400
-oldala között, így gyakorlatilag elszigeteltek egymástól. 
+oldala között, így gyakorlatilag elszigetelődtek egymástól. 
 
 57
 00:05:54,400 --> 00:05:59,720
-Kezdetben mindkét szigetoldalon senkinek 
-sincs semmije, így mindenki nulláról  
+Kezdetben senkinek sincs semmije a sziget két oldalán, 
+így mindenki nulláról indul.  
 
 58
 00:05:59,720 --> 00:06:06,680
-indul. Eleinte az emberek önellátók – 
+Eleinte az emberek önellátók – 
 mindenki maga halászik,  
 
 59
@@ -296,12 +295,12 @@ a kereskedelem itt nagyon korlátozott,  
 61
 00:06:17,160 --> 00:06:23,280
 mert az emberek keményen dolgoznak, hogy kielégítsék 
-mindennapi szükségleteiket ezekkel a javakkal kapcsolatban.  
+mindennapi szükségleteiket.  
 
 62
 00:06:23,280 --> 00:06:28,120
-De az emberek különbözőek. Egyesek jobbak 
-bizonyos dolgokban, mint mások, és hamar  
+De az emberek különbözőek. Valaki ebben jó, 
+valaki más abban, és hamar  
 
 63
 00:06:28,120 --> 00:06:33,520
@@ -365,18 +364,18 @@ hogy mivel a favágónak más javakra is szüksége van  
 
 75
 00:07:33,200 --> 00:07:37,280
-a túléléshez, el kell adnia a fát, hogy halat vegyen, 
-és el kell adnia a fát, hogy kifizesse az  
+a túléléshez, el kell adnia a fát, hogy halat vehessen, 
+és kifizethesse a kőművest.  
 
 76
 00:07:37,280 --> 00:07:43,800
-kőművest. Most már mindenki aktívan kereskedik 
+Most már mindenki aktívan kereskedik 
 ezzel a tökéletes pénzzel.
 
 77
 00:07:43,800 --> 00:07:47,920
-Mivel a folyamatok folyamatosan javulnak, 
-a favágó kevesebb idő alatt képes kielégíteni a  
+Mivel a folyamatok egyfolytában javulnak, 
+a favágó rövidebb idő alatt képes kielégíteni a  
 
 78
 00:07:47,920 --> 00:07:54,000
@@ -395,8 +394,8 @@ az árakat és javítja a minőséget.  
 
 81
 00:08:03,960 --> 00:08:09,040
-Ha eléri a favágás innovációinak 
-végét, a felhalmozott pénzét  
+Ha eléri a favágás fejlesztésének 
+határát, a felhalmozott pénzét  
 
 82
 00:08:09,040 --> 00:08:13,840
@@ -425,12 +424,12 @@ hogy a pénzük vásárlóereje  
 
 87
 00:08:35,200 --> 00:08:42,960
-növekedni kezd. A javak holnap olcsóbbak, mint ma, 
+növekedni kezd. A javak holnap olcsóbbak leszenek, mint ma, 
 így az árak folyamatosan csökkennek. A  
 
 88
 00:08:42,960 --> 00:08:49,880
-vásárlóerő mindkét valutában évi 
+vásárlóerő mindkét pénznemben évi 
 körülbelül 3%-kal nő, ami javítja az  
 
 89
@@ -445,7 +444,7 @@ a pénz válik egyre értékesebbé az idő múlásával.*
 
 91
 00:09:06,760 --> 00:09:12,640
-Ez egészen addig így megy, amíg meg nem jelennek 
+Ez egészen addig megy így, amíg meg nem jelennek 
 ezek a fickók. Mivel a társadalom és a lakosság  
 
 92
@@ -485,12 +484,12 @@ elkerülhetetlenül bekövetkezik.
 
 99
 00:09:51,320 --> 00:09:56,040
-Ezen a ponton eltérés kezd kialakulni a 
-sziget két oldala között. Satoshinak két  
+Ezen a ponton kezd szétválni a sziget 
+Satoshinak két választása van:  
 
 100
 00:09:56,040 --> 00:10:03,240
-választása van: vagy megemeli az adókat, 
+vagy megemeli az adókat, 
 vagy csökkenti a kiadásokat,  
 
 101
@@ -501,7 +500,7 @@ Fiatellónak ugyanezek  
 102
 00:10:06,160 --> 00:10:11,360
 a lehetőségei vannak... de van 
-a Nagy Vörös Gombja is.
+a Nagy Piros Gombja is.
 
 103
 00:10:11,360 --> 00:10:16,040
@@ -515,7 +514,7 @@ az szavazatokba fog kerülni. Ezért úgy dönt,  
 
 105
 00:10:22,680 --> 00:10:29,480
-hogy *csak most az egyszer* megnyomja a Nagy Vörös Gombot, 
+hogy *csak most az egyszer* megnyomja a Nagy Piros Gombot, 
 és egy kis extra pénzt nyomtat a kormány számára.
 
 106
@@ -555,23 +554,23 @@ az árak továbbra is csökkennek, 
 
 113
 00:11:10,440 --> 00:11:13,960
-Most Fiatello számára – nagyszerű 
-hír: újraválasztják,  
+Fiatello számára nagyszerű hír: 
+újraválasztják,  
 
 114
 00:11:13,960 --> 00:11:18,280
-és kezdetben mindennek nincs következménye. 
+és kezdetben mindezeknek nincs következménye. 
 Úgy gondolja, hogy ez a legjobb  
 
 115
 00:11:18,280 --> 00:11:25,760
-dolog valaha – újraválasztják, és nincs 
-hátrány... de valami megváltozott.
+dolog a világon – újraválasztják, és nincs 
+kövekezmény... de valami megváltozott.
 
 116
 00:11:25,760 --> 00:11:29,560
 Tehát, mi történt? Fiatello megnyomta 
-a Nagy Vörös Gombot,  
+a Nagy Piros Gombot,  
 
 117
 00:11:29,560 --> 00:11:33,200
@@ -594,7 +593,7 @@ javak és szolgáltatások mennyiségét.  
 
 121
 00:11:46,080 --> 00:11:51,600
-minden egyes jószágra és 
+minden egyes termékre és 
 szolgáltatásra vetítve.
 
 122
@@ -610,7 +609,7 @@ a harmadik pedig az eszközök inflációja.
 124
 00:12:02,840 --> 00:12:08,320
 Az első, az árjelzések torzítása. Nos, 
-Fiatello Nagy Vörös Gombjának megnyomása  
+Fiatello Nagy Piros Gombjának megnyomása  
 
 125
 00:12:08,320 --> 00:12:13,760
@@ -624,7 +623,7 @@ tökéletes pénzzel. De most,  
 
 127
 00:12:19,280 --> 00:12:25,040
-hogy a pénz belépett a gazdaságba, ez nem 
+hogy a plusz pénz belépett a gazdaságba, ez nem 
 mindenkinek egyenlően vagy akár arányosan  
 
 128
@@ -703,8 +702,8 @@ csökkentik a termék méretét, például 100  
 
 143
 00:13:48,760 --> 00:13:56,600
-gramm helyett 90 gramm lesz ugyanazon az áron. 
-A harmadik lehetőség pedig az költségek csökkentése.
+helyett 90 gramm lesz ugyan azon az áron. 
+A harmadik lehetőség pedig a költségek csökkentése.
 
 144
 00:13:56,600 --> 00:14:01,480
@@ -719,11 +718,11 @@ vállalkozásokat ezekre a változtatásokra kényszeríti.
 146
 00:14:07,760 --> 00:14:14,000
 Ha egy vállalkozás közvetlenül áthárítja az áremelkedést, 
-vagy ha csökkenti a termék méretét, és a  
+vagy csökkenti a termék méretét, és a  
 
 147
 00:14:14,000 --> 00:14:18,833
-vásárlóknak most többet kell vásárolniuk belőle, 
+vevőknek most többet kell vásárolniuk belőle, 
 hogy kielégítsék igényeiket (például 100 gramm helyett 90  
 
 148
@@ -754,7 +753,7 @@ munkája, ami csökkenti a lakosság általános  
 153
 00:14:46,680 --> 00:14:52,080
 vásárlóerejét Fiatello világában. 
-De nem csak ez: a kormánynak egy második  
+De nem csak ez a gond: a kormánynak egy második  
 
 154
 00:14:52,080 --> 00:14:57,080
@@ -763,7 +762,7 @@ azokat az embereket, akik nemrég váltak munkanélkülivé.
 
 155
 00:14:57,080 --> 00:15:03,880
-Az egyik legártalmasabb módja az költségek 
+Az egyik legkárosabb módja az költségek 
 csökkentésének a minőség csökkentése.
 
 156
@@ -794,7 +793,7 @@ az embereket, akiknek lerolmott az egészsége.
 161
 00:15:30,680 --> 00:15:36,320
 A harmadik hatás az eszközök inflációja. 
-Mióta Fiatello megnyomta a Nagy Vörös Gombot,  
+Mióta Fiatello megnyomta a Nagy Piros Gombot,  
 
 162
 00:15:36,320 --> 00:15:40,960
@@ -803,7 +802,7 @@ egyre magasabbra szárnyal,  
 
 163
 00:15:40,960 --> 00:15:47,200
-az ingatlanárak pedig egyre drágábbak. Fiatello 
+az ingatlanok pedig egyre drágábbak. Fiatello 
 azt gondolja: „Valami gazdasági zseni vagyok.”  
 
 164
@@ -818,7 +817,7 @@ nem adná el az eszközeit ugyanazon az áron, mint  
 
 166
 00:15:58,160 --> 00:16:02,480
-tegnap. Figyelembe veszik, hogy több 
+tegnap. Figyelembe veszi, hogy több 
 Fiatello van a rendszerben, és ez hajtja  
 
 167
@@ -833,17 +832,17 @@ az eszközöket, viszont nem jó azoknak, akik nem. 
 
 169
 00:16:14,720 --> 00:16:19,960
-gazdaságban. És nemcsak ez, de mivel az ingatlanárak 
+gazdaságban. És nemcsak ez a probléma, mivel az ingatlanárak 
 most drágábbak, a bérleti díjak is emelkednek.  
 
 170
 00:16:19,960 --> 00:16:24,560
-Így Fiatello egyre több hajléktalant lát, 
+Így Fiatello egyre több nincstelent lát, 
 és ez a növekvő hajléktalanság  
 
 171
 00:16:24,560 --> 00:16:30,360
-– vajon mi történik? – még több kormányzati beavatkozást 
+– Vajon mit okoz ? – még több kormányzati beavatkozást 
 igényel a probléma kezelésére. Az eszközárak szárnyalnak,  
 
 172
@@ -864,7 +863,7 @@ spekulatív eszközöket kell vásárolnom,  
 175
 00:16:43,960 --> 00:16:49,920
 mert ezek árai soha nem esnek, csak emelkednek. 
-Ha nem fektetek be, bolond vagyok." Mivel  
+Hülye lennék nem befektetni." Mivel  
 
 176
 00:16:49,920 --> 00:16:54,320
@@ -879,11 +878,11 @@ vállalatoknak, de mivel az ingatlanárak már emelkedtek,  
 178
 00:17:00,880 --> 00:17:06,360
 és mindenki egyre több adósságot halmoz fel, miközben 
-a családok küzdenek a mindennapi megélhetés  
+a családok küzdenek a mindennapi megélhetésért,  
 
 179
 00:17:06,360 --> 00:17:12,960
-megfizethetőségével, egyre nehezebb házat vásárolni. 
+egyre nehezebb házat vásárolni. 
 Korábban a családok, egy fő  
 
 180
@@ -898,7 +897,7 @@ maguknak a jelzáloghitelt és a megélhetést,  
 
 182
 00:17:25,800 --> 00:17:30,320
-és amikor ez történik, az emberek kevesebb 
+és ekkor az emberek kevesebb 
 időt töltenek együtt. Elkezdődik a  
 
 183
@@ -928,7 +927,7 @@ nyugdíjazást, a jó életminőséget  
 
 188
 00:17:56,880 --> 00:18:02,240
-vagy a meghatározott nyugdíjjövedelmet 
+vagy a meghatározott nyugdíjat 
 – nem tudja teljesíteni.
 
 189
@@ -948,7 +947,7 @@ inkább csak egy-két évre  
 
 192
 00:18:16,560 --> 00:18:21,440
-terveznek. Kevesebbet terveznek a jövőre, 
+terveznek. Kevesebbet gondolnak a jövőre, 
 talán elhalasztják a házasságot vagy a  
 
 193
@@ -958,8 +957,8 @@ részesíteni a jelent, a jövő rovására.  
 
 194
 00:18:27,960 --> 00:18:31,760
-Az emberek látják, hogy a megtakarított Fiatelloik 
-nem visz őket sehová, mert az eszközárak  
+Látják, hogy a megtakarított Fiatelloik 
+nem visz őket előrébb, mert az eszközárak  
 
 195
 00:18:31,760 --> 00:18:35,680
@@ -968,7 +967,7 @@ házat venni. Ha soha nem tudsz házat vásárolni,  
 
 196
 00:18:35,680 --> 00:18:42,760
-akkor inkább "éld a mának", menj 
+akkor inkább "élj a mának", menj 
 nyaralni, költs többet, élvezd az életet.
 
 197
@@ -988,7 +987,7 @@ ami a függőségek növekedéséhez vezet.  
 
 200
 00:19:00,200 --> 00:19:04,000
-A függőség különböző formái, köztük az opioidok 
+A függőség különböző formái, köztük az fájdalomcsillapítók 
 használata is egyre nő Fiatello szigetén, ami  
 
 201
@@ -998,13 +997,13 @@ még több kormányzati beavatkozást igényel.  
 
 202
 00:19:09,600 --> 00:19:14,960
-Mindez pedig egy mentális egészségügyi válsághoz 
+Mindez pedig egy mentális egészségügyi problémához 
 vezet a lakosság körében.
 
 203
 00:19:14,960 --> 00:19:19,760
 Most a kormány olyan helyzetben találja magát, 
-hogy mivel megnyomta a Nagy Vörös Gombot, egy  
+hogy mivel megnyomta a Nagy Piros Gombot, egy  
 
 204
 00:19:19,760 --> 00:19:26,960
@@ -1023,13 +1022,13 @@ ismét nagyobb tőkeallokációs torzulást okoz,  
 
 207
 00:19:37,280 --> 00:19:42,160
-és még több vállalkozót vonz a gazdaság rossz 
-részeire az árjelzések torzulása miatt.
+és még több vállalkozót kényszerít a gazdaság peremére 
+az árjelzések torzulása miatt.
 
 208
 00:19:42,160 --> 00:19:45,280
-A bankok által hajtott gazdasági tőkeáttétel 
-növekedése és a tőke rossz elosztása  
+A bankok általi tőkeáttétel növelés 
+és a tőke rossz elosztása  
 
 209
 00:19:45,280 --> 00:19:50,360
@@ -1039,7 +1038,7 @@ megalapozza a következő válságot... 
 210
 00:19:50,360 --> 00:19:55,280
 egyetlen választás marad – újra 
-megnyomni a Nagy Vörös Gombot!  
+megnyomni a Nagy Piros Gombot!  
 
 211
 00:19:55,280 --> 00:20:00,160
@@ -1049,12 +1048,12 @@ ez nem volt következmények nélküli.
 212
 00:20:00,160 --> 00:20:05,000
 Most már egyik válságból a másik, még nagyobb válság 
-felé sodródik. Megnyomja a Nagy Vörös Gombot, ami  
+felé sodródik. Megnyomja a Nagy Piros Gombot, ami  
 
 213
 00:20:05,000 --> 00:20:11,000
-leértékeli a fizetőeszközt, ami nagyobb kormányzathoz 
-és több mindenbe való beavatkozáshoz vezet.
+leértékeli a fizetőeszközt, ez pedig nagyobb apparátushoz 
+és több beavatkozáshoz vezet.
 
 214
 00:20:11,000 --> 00:20:15,080
@@ -1063,7 +1062,7 @@ de a kormány körül egy sor  
 
 215
 00:20:15,080 --> 00:20:21,120
-parazita iparág alakult ki. A gyögyszeripar 
+parazita iparág alakult ki. A gyógyszeripar 
 egyre nagyobb mértékben  
 
 216
@@ -1112,8 +1111,8 @@ elveszíti a pénzét, és a kormány megbukik.
 
 225
 00:21:02,680 --> 00:21:06,440
-A kormány továbbra is nem produktív 
-beruházásokat hajt végre.  
+A kormány továbbra sem hajt végre 
+termelékeny beruházásokat.  
 
 226
 00:21:06,440 --> 00:21:10,800
@@ -1152,8 +1151,8 @@ Az egy-két-három nagyvállalat minden területen  
 
 233
 00:21:43,160 --> 00:21:46,520
-nagyon közel kerül a kormányhoz. Ők biztosítják 
-az embereket a szabályozó testületekhez,  
+nagyon közel kerül a kormányhoz. Ők delegálják 
+az embereket a jogalkotó testületekhez,  
 
 234
 00:21:46,520 --> 00:21:51,680
@@ -1177,7 +1176,7 @@ mert a haszonkulcsuk növekszik.
 
 238
 00:22:09,360 --> 00:22:15,400
-Ezután a média is elfoglalásra kerül. A kormány ingatag 
+Ezután a médiát is elfoglalják. A kormány ingatag 
 helyzetben van, hogy fenntartsa a társadalmi  
 
 239
@@ -1198,7 +1197,7 @@ nézeteket vagy bármit, ami bármilyen  
 242
 00:22:33,640 --> 00:22:37,680
 módon aláásná a kormány legitimitását. 
-Nemcsak ez, de a legnagyobb  
+Nemcsak ez a gond: a legnagyobb  
 
 243
 00:22:37,680 --> 00:22:42,480
@@ -1212,7 +1211,7 @@ feldühíteni a hirdetőiket.
 
 245
 00:22:46,520 --> 00:22:51,680
-Amikor a média elfoglalásra kerül, és a hadiipari 
+Amikor a média a kezükbe kerül, és a hadiipari 
 komplexum külföldi konfliktusokat szít,  
 
 246
@@ -1241,7 +1240,7 @@ Fiatello-nak egyetlen választása van:  
 
 251
 00:23:17,520 --> 00:23:22,160
-újra megnyomni a Nagy Vörös Gombot. De ezúttal 
+újra megnyomni a Nagy Piros Gombot. De ezúttal 
 más a helyzet. Egy hatalmas bizalomvesztés  
 
 252
@@ -1256,7 +1255,7 @@ amíg valami meg nem szakad.
 
 254
 00:23:33,360 --> 00:23:36,880
-Most Fiatello kezdi komolyan aggódni.
+Most, Fiatello komolyan aggódni kezd.
 
 255
 00:23:36,880 --> 00:23:43,480
@@ -1379,7 +1378,7 @@ amelyek vásárlóereje évente 3%-kal növekszik,  
 279
 00:25:44,400 --> 00:25:49,760
 a másik oldalon a Fiatellók, amelyek évente 
-7%-kal veszítenek vásárlóerejükből.
+7%-ot veszítenek vásárlóerejükből.
 
 280
 00:25:49,760 --> 00:25:53,400
@@ -1387,7 +1386,7 @@ Mi történik és miért?  
 
 281
 00:25:53,400 --> 00:25:58,240
-Amit Fiatello elkezd látni, az az, hogy a 
+Fiatello észreszi, hogy a 
 pénz és az emberek elkezdenek távozni,  
 
 282
@@ -1422,7 +1421,7 @@ vált ki, amelyeket Fiatellónak kell kezelnie... és az  
 
 288
 00:26:33,920 --> 00:26:38,960
-egyetlen választás ismét a Nagy Vörös Gomb 
+egyetlen választás ismét a Nagy Piros Gomb 
 megnyomása! De ezúttal a pénznyomtatás nem elég,  
 
 289
@@ -1443,7 +1442,7 @@ maga birtokolhatta a pénzt,  
 292
 00:26:59,280 --> 00:27:04,480
 de most Fiatello azt mondja, hogy többé nem birtokolhatják 
-maguk. A pénzt a bankokban kell elhelyezniük.  
+saját maguk. A pénzt a bankokban kell elhelyezniük.  
 
 293
 00:27:04,480 --> 00:27:10,240
@@ -1477,13 +1476,13 @@ nem vásárolhatsz Satoshikat.” De  
 
 299
 00:27:40,280 --> 00:27:44,240
-az emberek mindig találnak utat, és egyre 
-többen ébrednek rá, mi történik, és a ciklus  
+az emberek mindig utat találnak, és egyre 
+többen ébrednek rá, hogy mi történik, és a ciklus  
 
 300
 00:27:44,240 --> 00:27:52,640
 folytatódik. A lényeg, hogy a vagyon és az 
-emberek az érintetlen pénzhez menekülnek.
+emberek a tisztességes pénz felé törekednek.
 
 301
 00:27:52,640 --> 00:27:56,680
@@ -1491,13 +1490,13 @@ Most Fiatello valóban pánikba esik.
 
 302
 00:27:56,680 --> 00:28:04,360
-Tehát hol ér véget a törénet számára? Nos, ha szerencséje van, 
+Tehát hol ér véget a történet számára? Nos, ha szerencséje van, 
 a tartós inflációval, amely lehetővé  
 
 303
 00:28:04,360 --> 00:28:10,520
 teszi a kormány számára, hogy leépítse az 
-adósságait, és lassan elszívja a közvélemény vagyonát.  
+adósságait, és lassan elszívja a népesség vagyonát.  
 
 304
 00:28:10,520 --> 00:28:16,320
@@ -1516,8 +1515,8 @@ hogy az összes pénzt a bankokban tartják, egy  
 
 307
 00:28:27,800 --> 00:28:35,160
-nap Fiatello azt fogja kijelenteni, hogy „mindannyian 
-együtt vagyunk ebben”, és a bankok átadják a  
+nap Fiatello azt fogja mondani, hogy „Mind egy csónakban evezünk”,  
+és a bankok átadják a  
 
 308
 00:28:35,160 --> 00:28:41,160
@@ -1527,7 +1526,7 @@ tőke egy részét a kormánynak. Pontosan 
 309
 00:28:41,160 --> 00:28:46,680
 100 000 eurót tartottál a bankban, egy éjszaka alatt 
-annak 45%-a a kormányhoz került. A közvélemény  
+annak 45%-a a kormányhoz került. A lakosság  
 
 310
 00:28:46,680 --> 00:28:54,680
@@ -1561,7 +1560,7 @@ erednek ezek a problémák. Nem mondják el  
 
 316
 00:29:25,680 --> 00:29:31,040
-nekik, hogy a Nagy Vörös Gomb által végzett 
+nekik, hogy a Nagy Piros Gomb által végzett 
 pénznyomtatás okozza őket. Ellenőrzik  
 
 317
@@ -1576,7 +1575,7 @@ a pontokat. Nem magyarázzák el  
 
 319
 00:29:40,920 --> 00:29:45,400
-a Nagy Vörös Gomb és a problémák közötti kapcsolatot. 
+a Nagy Piros Gomb és a problémák közötti kapcsolatot. 
 Helyette a „kapzsi üzletembereket”, a  
 
 320
@@ -1632,12 +1631,12 @@ rossz változata a Fiatellónak.
 330
 00:30:51,200 --> 00:30:56,080
 Az amerikai dollár ugyanazon 
-a két kulcskérdésen romlott, mint  
+a két kulcskérdésen bukott el, mint  
 
 331
 00:30:56,080 --> 00:31:01,080
 a Fiatellók, de az öt másikban 
-is lényegesen rosszabb.
+is lényegesen rosszabbul teljesít.
 
 332
 00:31:01,080 --> 00:31:04,120
@@ -1665,8 +1664,8 @@ gazdasági modelleket nyithatnának meg.
 
 337
 00:31:24,800 --> 00:31:32,560
-Tartós digitális formában, de van készpénzes 
-összetevője, és ez a készpénzes összetevő folyamatosan  
+Digitális formában tartós, de van készpénz 
+változata, ami folyamatosan  
 
 338
 00:31:32,560 --> 00:31:38,160
@@ -1764,33 +1763,33 @@ nem lehet eltávolítani, például az adósságkamatokat.
 
 357
 00:33:20,000 --> 00:33:27,160
-És a következmények? Nos, ez egy diagram az amerikai 
-rendszerben lévő pénzmennyiségről dollárban,  
+És a következmények? Nos, itt egy diagram ami 
+az amerikai rendszer dollár mennyiségét mutatja,  
 
 358
 00:33:27,160 --> 00:33:33,320
-valamint az amerikai kormány által kibocsátott adósság 
-mennyiségéről az idő múlásával. Itt bejelöltem 1971-et,  
+valamint az idő múlásával az amerikai kormány által kibocsátott adósság 
+mennyiségét. Itt bejelöltem 1971-et,  
 
 359
 00:33:33,320 --> 00:33:40,080
 mert ekkor lépett ki Amerika egyoldalúan az arany-standardból. 
-1971 előtt az nemzetállamok visszavihették a  
+1971 előtt az nemzetállamok visszacserélhették a  
 
 360
 00:33:40,080 --> 00:33:46,600
-dollárokat, és aranyat kaphattak értük cserébe. 
+dollárjukat, és aranyat kaphattak értük. 
 Nixon megszüntette a dollár aranyfedezetét,  
 
 361
 00:33:46,600 --> 00:33:52,840
 és azóta a világ minden valutája követte ezt, 
-lehetővé téve az számukra, hogy korlátlan  
+lehetővé téve számukra azt, hogy korlátlan  
 
 362
 00:33:52,840 --> 00:33:59,320
 mennyiségű pénzt nyomtasson saját szükségleteinek kielégítésére. 
-A bal oldali tengelyen a vörös diagram  
+A bal oldali tengelyen a Piros diagram  
 
 363
 00:33:59,320 --> 00:34:06,440
@@ -1799,7 +1798,7 @@ a jobb oldalon pedig az amerikai államadósság,  
 
 364
 00:34:06,440 --> 00:34:11,160
-azót már jóval magasabb – 
+azóta már jóval magasabb – 
 most már 36 billió dollár!  
 
 365
@@ -1814,7 +1813,7 @@ köteles kifizetni a társadalombiztosítás,  
 
 367
 00:34:19,600 --> 00:34:24,360
-Medicare, Medicaid stb. révén, de a csekket 
+az idősek biztosítása, rászorulók támogatása, stb. révén, de a csekket 
 még nem kellett megírni. Ennek összege  
 
 368
@@ -1859,12 +1858,11 @@ eltűnt, néhány pedig ténylegesen  
 376
 00:35:03,120 --> 00:35:06,280
 meg is szűnt létezni. Azok az emberek, 
-akik ezekben a valutákban takarították  
+akik ezekben a valutákban takarítottak  
 
 377
 00:35:06,280 --> 00:35:12,200
-meg gazdasági energiájukat, látták, 
-hogy azok eltűnnek.
+meg, látták, hogy azok elporladnak.
 
 378
 00:35:12,200 --> 00:35:17,720
@@ -1878,22 +1876,22 @@ A kormányok számára nincs kiút.
 
 380
 00:35:21,800 --> 00:35:27,640
-Az egyetlen megoldás, hogy folyamatosan
-megnyomják a Nagy Vörös Gombot.
+Az egyetlen megoldás, hogy folyamatosan 
+megnyomják a Nagy Piros Gombot.
 
 381
 00:35:29,200 --> 00:35:37,080
-És így a következtetés egy idézet Hayek-től, az osztrák
+Következtetésként idézek Hayek-től, az osztrák 
 közgazdasági iskola egyik közgazdászától:  
 
 382
 00:35:37,640 --> 00:35:41,920
-„A pénz kormányzati kezelésének története,
+„A pénz kormányzati kezelésének története, 
 néhány rövid boldog időszak  
 
 383
 00:35:41,920 --> 00:35:51,000
-kivételével, az állandó csalás és megtévesztés
+kivételével, az állandó csalás és megtévesztés 
 története.” És ezt 1988-ban mondta.
 
 384
@@ -1908,7 +1906,7 @@ Az egyetlen megoldás itt a *pénz és az állam  
 386
 00:36:03,040 --> 00:36:10,640
 szétválasztása*. A kormány nem férhet 
-hozzá a Nagy Vörös Gombhoz.
+hozzá a Nagy Piros Gombhoz.
 
 387
 00:36:10,640 --> 00:36:16,240
@@ -1933,7 +1931,7 @@ nem tudnak megállítani.” Briliáns idézet.
 391
 00:36:31,720 --> 00:36:37,240
 Remélem, most, hogy ezek az 
-összefüggések a Nagy Vörös Gomb, a  
+összefüggések a Nagy Piros Gomb, a  
 
 392
 00:36:37,240 --> 00:36:42,480
@@ -1956,7 +1954,7 @@ Fiatello is mostmár megérti.
 
 396
 00:37:00,600 --> 00:37:04,920
-A megoldás a Bitcoin.
+A megoldás, a Bitcoin.
 
 397
 00:37:04,920 --> 00:37:13,320
@@ -1965,13 +1963,12 @@ ugyanúgy, ahogy egy dollár 100 cent.
 
 398
 00:37:13,320 --> 00:37:15,640
-Most azt gondolhatod, hogy 
-már tudsz a Bitcoinról,  
+Gondolhatod, hogy már ismered a Bitcoint, 
 
 399
 00:37:15,640 --> 00:37:20,160
-valami alapján, amit barátaidtól hallottál, 
-vagy amit a médiában olvastál.
+hallomásból a barátaidtól vagy 
+amit a médiában olvastál róla.
 
 400
 00:37:20,160 --> 00:37:24,040
@@ -2087,8 +2084,9 @@ dolog, amit ebből magaddal viszel,  
 423
 00:39:16,760 --> 00:39:27,818
 remélem, ez lesz: **Ha megjavítjuk a pénzt, 
-megjavítjuk a világot.** Köszönöm! [Zene]  
+megjavítjuk a világot.** Köszönöm!  
 
 424
 00:39:27,818 --> 00:39:35,818
-Fordította: Lorry, https://huszonegy.world/
+Fordította: huszonegy.world
+
