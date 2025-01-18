@@ -134,7 +134,7 @@ tulajdonságokkal. Az első megválaszolnadó kérdés:
 
 28
 00:03:14,160 --> 00:03:21,200
-Mitől jó egy pénz? (Tipp: 7 dolog) 
+Mitől jó egy pénz? (Tipp: 7 dologtól) 
 Mivel ezek az emberek bármit létrehozhatnak,
 
 29
@@ -1310,7 +1310,7 @@ Jövedelmük nagy része eszközök hozamaiból,
 266
 00:24:32,640 --> 00:24:39,080
 működő vállalkozásokból vagy befektetésekből származik. 
-A jövedelmük biztos, mert rúghatják ki őket,
+A jövedelmük biztos, mert nem rúghatják ki őket,
 
 267
 00:24:39,080 --> 00:24:47,400
